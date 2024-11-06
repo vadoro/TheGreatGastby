@@ -1,0 +1,1400 @@
+no,chapter,speaker,firstlistener,addressees,content,time,place
+1,1,Father,Nick,['Nick'],"Whenever you feel like criticizing anyone,",past,Nick
+2,1,Father,Nick,['Nick'],just remember that all the people in this world haven’t had the advantages that you’ve had.,past,Nick
+3,1,AuntsandUncles,Nick,['Nick'],"Why—ye-es,",past,Nick
+4,1,man,Nick,['Nick'],How do you get to West Egg village?,present,road
+5,1,Tom,Nick,['Nick'],"Now, don’t think my opinion on these matters is final,",present,road
+6,1,Tom,Nick,['Nick'],just because I’m stronger and more of a man than you are.,present,road
+7,1,Tom,Nick,['Nick'],"I’ve got a nice place here,",present,thouse
+8,1,Tom,Nick,['Nick'],"It belonged to Demaine, the oil man.",present,thouse
+9,1,Tom,Nick,['Nick'],We’ll go inside.,present,thouse
+10,1,Daisy,Nick,['Nick'],I’m p-paralysed with happiness.,present,thouse
+11,1,Daisy,Nick,['Nick'],Do they miss me?,present,thouse
+12,1,Nick,Daisy,['Daisy'],"The whole town is desolate. All the cars have the left rear wheel painted black as a mourning wreath, and there’s a persistent wail all night along the north shore.",present,thouse
+13,1,Daisy,Tom,"['Nick', 'Tom']","How gorgeous! Let’s go back, Tom. Tomorrow!",present,thouse
+14,1,Daisy,Nick,"['Nick', 'Tom']",You ought to see the baby.,present,thouse
+15,1,Nick,Daisy,"['Daisy', 'Tom']",I’d like to.,present,thouse
+16,1,Daisy,Nick,"['Nick', 'Tom']",She’s asleep. She’s three years old. Haven’t you ever seen her?,present,thouse
+17,1,Nick,Daisy,"['Daisy', 'Tom']",Never.,present,thouse
+18,1,Daisy,Nick,"['Nick', 'Tom']","Well, you ought to see her. She’s—",present,thouse
+19,1,Tom,Nick,['Nick'],"What you doing, Nick?",present,thouse
+20,1,Nick,Tom,['Tom'],I’m a bond man.,present,thouse
+21,1,Tom,Nick,['Nick'],Who with?,present,thouse
+22,1,Tom,Nick,['Nick'],"Never heard of them,",present,thouse
+23,1,Nick,Tom,['Tom'],"You will,",present,thouse
+24,1,Nick,Tom,['Tom'],You will if you stay in the East.,present,thouse
+25,1,Tom,Nick,['Nick'],"Oh, I’ll stay in the East, don’t you worry,",present,thouse
+26,1,Tom,Nick,['Nick'],I’d be a God damned fool to live anywhere else.,present,thouse
+27,1,Jordan,Tom,"['Tom', 'Nick', 'Daisy']",Absolutely!,present,thouse
+28,1,Jordan,Tom,"['Tom', 'Nick', 'Daisy']","I’m stiff,",present,thouse
+29,1,Jordan,Tom,"['Tom', 'Nick', 'Daisy']",I’ve been lying on that sofa for as long as I can remember.,present,thouse
+30,1,Daisy,Jordan,"['Jordan', 'Tom', 'Nick']","Don’t look at me,",present,thouse
+31,1,Daisy,Jordan,"['Jordan', 'Tom', 'Nick']",I’ve been trying to get you to New York all afternoon.,present,thouse
+32,1,Jordan,Tom,"['Tom', 'Nick', 'Daisy']","No, thanks,",present,thouse
+33,1,Jordan,Tom,"['Tom', 'Nick', 'Daisy']",I’m absolutely in training.,present,thouse
+34,1,Tom,Jordan,"['Jordan', 'Daisy', 'Nick']",You are!,present,thouse
+35,1,Tom,Jordan,"['Jordan', 'Daisy', 'Nick']",How you ever get anything done is beyond me.,present,thouse
+36,1,Jordan,Nick,"['Tom', 'Nick', 'Daisy']","You live in West Egg,",present,thouse
+37,1,Jordan,Nick,"['Tom', 'Nick', 'Daisy']",I know somebody there.,present,thouse
+38,1,Nick,Jordan,"['Tom', 'Jordan', 'Daisy']",I don’t know a single—,present,thouse
+39,1,Jordan,Nick,"['Tom', 'Nick', 'Daisy']",You must know Gatsby.,present,thouse
+40,1,Daisy,Jordan,"['Jordan', 'Tom', 'Nick']",Gatsby?,present,thouse
+41,1,Daisy,Jordan,"['Jordan', 'Tom', 'Nick']",What Gatsby?,present,thouse
+42,1,Daisy,Jordan,"['Jordan', 'Tom', 'Nick']",Why candles?,present,thouse
+43,1,Daisy,Jordan,"['Jordan', 'Tom', 'Nick']",In two weeks it’ll be the longest day in the year.,present,thouse
+44,1,Daisy,Jordan,"['Jordan', 'Tom', 'Nick']",Do you always watch for the longest day of the year and then miss it? I always watch for the longest day in the year and then miss it.,present,thouse
+45,1,Jordan,Daisy,"['Tom', 'Nick', 'Daisy']","We ought to plan something,",present,thouse
+46,1,Daisy,Jordan,"['Jordan', 'Tom', 'Nick']","All right,",present,thouse
+47,1,Daisy,Jordan,"['Jordan', 'Tom', 'Nick']",What’ll we plan?,present,thouse
+48,1,Daisy,Nick,"['Jordan', 'Tom', 'Nick']",What do people plan?,present,thouse
+49,1,Daisy,Tom,"['Jordan', 'Tom', 'Nick']",Look!,present,thouse
+50,1,Daisy,Tom,"['Jordan', 'Tom', 'Nick']",I hurt it.,present,thouse
+51,1,Daisy,Tom,"['Jordan', 'Tom', 'Nick']","You did it, Tom,",present,thouse
+52,1,Daisy,Tom,"['Jordan', 'Tom', 'Nick']","I know you didn’t mean to, but you did do it. That’s what I get for marrying a brute of a man, a great, big, hulking physical specimen of a—",present,thouse
+53,1,Tom,Daisy,"['Jordan', 'Daisy', 'Nick']","I hate that word ‘hulking,’",present,thouse
+54,1,Tom,Daisy,"['Jordan', 'Daisy', 'Nick']",even in kidding.,present,thouse
+55,1,Daisy,Tom,"['Jordan', 'Tom', 'Nick']","Hulking,",present,thouse
+56,1,Nick,Daisy,"['Tom', 'Jordan', 'Daisy']","You make me feel uncivilized, Daisy,",present,thouse
+57,1,Nick,Daisy,"['Tom', 'Jordan', 'Daisy']",Can’t you talk about crops or something?,present,thouse
+58,1,Tom,Nick,"['Jordan', 'Daisy', 'Nick']","Civilization’s going to pieces,",present,thouse
+59,1,Tom,Nick,"['Jordan', 'Daisy', 'Nick']",I’ve gotten to be a terrible pessimist about things. Have you read The Rise of the Coloured Empires by this man Goddard?,present,thouse
+60,1,Nick,Tom,"['Tom', 'Jordan', 'Daisy']","Why, no,",present,thouse
+61,1,Tom,Nick,"['Jordan', 'Daisy', 'Nick']","Well, it’s a fine book, and everybody ought to read it. The idea is if we don’t look out the white race will be—will be utterly submerged. It’s all scientific stuff; it’s been proved.",present,thouse
+62,1,Daisy,Nick,"['Jordan', 'Tom', 'Nick']","Tom’s getting very profound,",present,thouse
+63,1,Daisy,Nick,"['Jordan', 'Tom', 'Nick']",He reads deep books with long words in them. What was that word we—,present,thouse
+64,1,Tom,Daisy,"['Jordan', 'Daisy', 'Nick']","Well, these books are all scientific,",present,thouse
+65,1,Tom,Daisy,"['Jordan', 'Daisy', 'Nick']","This fellow has worked out the whole thing. It’s up to us, who are the dominant race, to watch out or these other races will have control of things.",present,thouse
+66,1,Daisy,Tom,"['Jordan', 'Tom', 'Nick']","We’ve got to beat them down,",present,thouse
+67,1,Jordan,Tom,"['Tom', 'Nick', 'Daisy']",You ought to live in California—,present,thouse
+68,1,Tom,Daisy,"['Jordan', 'Daisy', 'Nick']","This idea is that we’re Nordics. I am, and you are, and you are, and—",present,thouse
+69,1,Tom,Daisy,"['Jordan', 'Daisy', 'Nick']","—And we’ve produced all the things that go to make civilization—oh, science and art, and all that. Do you see?",present,thouse
+70,1,Daisy,Nick,['Nick'],"I’ll tell you a family secret,",present,thouse
+71,1,Daisy,Nick,['Nick'],It’s about the butler’s nose. Do you want to hear about the butler’s nose?,present,thouse
+72,1,Nick,Daisy,['Daisy'],That’s why I came over tonight.,present,thouse
+73,1,Daisy,Nick,['Nick'],"Well, he wasn’t always a butler; he used to be the silver polisher for some people in New York that had a silver service for two hundred people. He had to polish it from morning till night, until finally it began to affect his nose—",present,thouse
+74,1,Jordan,Daisy,"['Daisy', 'Nick']","Things went from bad to worse,",present,thouse
+75,1,Daisy,Jordan,"['Jordan', 'Nick']","Yes. Things went from bad to worse, until finally he had to give up his position.",present,thouse
+76,1,Daisy,Nick,"['Jordan', 'Nick']","I love to see you at my table, Nick. You remind me of a—of a rose, an absolute rose. Doesn’t he?",present,thouse
+77,1,Daisy,Jordan,"['Jordan', 'Nick']",An absolute rose?,present,thouse
+78,1,Jordan,Nick,['Nick'],Sh!,present,thouse
+79,1,Nick,Jordan,['Jordan'],This Mr. Gatsby you spoke of is my neighbour—,present,thouse
+80,1,Jordan,Nick,['Nick'],Don’t talk. I want to hear what happens.,present,thouse
+81,1,Nick,Jordan,['Jordan'],Is something happening?,present,thouse
+82,1,Jordan,Nick,['Nick'],You mean to say you don’t know?,present,thouse
+83,1,Jordan,Nick,['Nick'],I thought everybody knew.,present,thouse
+84,1,Nick,Jordan,['Jordan'],I don’t.,present,thouse
+85,1,Jordan,Nick,['Nick'],Why—,present,thouse
+86,1,Jordan,Nick,['Nick'],Tom’s got some woman in New York.,present,thouse
+87,1,Nick,Jordan,['Jordan'],Got some woman?,present,thouse
+88,1,Jordan,Nick,['Nick'],She might have the decency not to telephone him at dinner time. Don’t you think?,present,thouse
+89,1,Daisy,Jordan,"['Jordan', 'Tom', 'Nick']",It couldn’t be helped!,present,thouse
+90,1,Daisy,Nick,"['Jordan', 'Tom', 'Nick']","I looked outdoors for a minute, and it’s very romantic outdoors. There’s a bird on the lawn that I think must be a nightingale come over on the Cunard or White Star Line. He’s singing away—",present,thouse
+91,1,Daisy,Tom,"['Jordan', 'Tom', 'Nick']","It’s romantic, isn’t it, Tom?",present,thouse
+92,1,Tom,Daisy,"['Jordan', 'Daisy', 'Nick']","Very romantic,",present,thouse
+93,1,Tom,Nick,"['Jordan', 'Daisy', 'Nick']","If it’s light enough after dinner, I want to take you down to the stables.",present,thouse
+94,1,Daisy,Nick,['Nick'],"We don’t know each other very well, Nick,",present,thouse
+95,1,Daisy,Nick,['Nick'],Even if we are cousins. You didn’t come to my wedding.,present,thouse
+96,1,Nick,Daisy,['Daisy'],I wasn’t back from the war.,present,thouse
+97,1,Daisy,Nick,['Nick'],That’s true.,present,thouse
+98,1,Daisy,Nick,['Nick'],"Well, I’ve had a very bad time, Nick, and I’m pretty cynical about everything.",present,thouse
+99,1,Nick,Daisy,['Daisy'],"I suppose she talks, and—eats, and everything.",present,thouse
+100,1,Daisy,Nick,['Nick'],"Oh, yes.",present,thouse
+101,1,Daisy,Nick,['Nick'],"Listen, Nick; let me tell you what I said when she was born. Would you like to hear?",present,thouse
+102,1,Nick,Daisy,['Daisy'],Very much.,present,thouse
+103,1,Daisy,Nick,['Nick'],"You see I think everything’s terrible anyhow,",present,thouse
+104,1,Daisy,Nick,['Nick'],Everybody thinks so—the most advanced people. And I know. I’ve been everywhere and seen everything and done everything.,present,thouse
+105,1,Daisy,Nick,['Nick'],"Sophisticated—God, I’m sophisticated!",present,thouse
+106,1,Jordan,Tom,"['Tom', 'Nick', 'Daisy']","To be continued,",present,thouse
+107,1,Jordan,Tom,"['Tom', 'Nick', 'Daisy']",in our very next issue.,present,thouse
+108,1,Jordan,Daisy,"['Tom', 'Nick', 'Daisy']","Ten o’clock,",present,thouse
+109,1,Jordan,Daisy,"['Tom', 'Nick', 'Daisy']",Time for this good girl to go to bed.,present,thouse
+110,1,Daisy,Nick,"['Jordan', 'Tom', 'Nick']","Jordan’s going to play in the tournament tomorrow,",present,thouse
+111,1,Daisy,Nick,"['Jordan', 'Tom', 'Nick']",over at Westchester.,present,thouse
+112,1,Nick,Jordan,"['Tom', 'Jordan', 'Daisy']",Oh—you’re Jordan Baker.,present,thouse
+113,1,Jordan,Daisy,"['Tom', 'Nick', 'Daisy']","Good night,",present,thouse
+114,1,Jordan,Daisy,"['Tom', 'Nick', 'Daisy']","Wake me at eight, won’t you.",present,thouse
+115,1,Daisy,Jordan,"['Jordan', 'Tom', 'Nick']",If you’ll get up.,present,thouse
+116,1,Jordan,Nick,"['Tom', 'Nick', 'Daisy']","I will. Good night, Mr. Carraway. See you anon.",present,thouse
+117,1,Daisy,Jordan,"['Jordan', 'Tom', 'Nick']","Of course you will,",present,thouse
+118,1,Daisy,Nick,"['Jordan', 'Tom', 'Nick']","In fact I think I’ll arrange a marriage. Come over often, Nick, and I’ll sort of—oh—fling you together. You know—lock you up accidentally in linen closets and push you out to sea in a boat, and all that sort of thing—",present,thouse
+119,1,Jordan,Daisy,"['Tom', 'Nick', 'Daisy']","Good night,",present,thouse
+120,1,Jordan,Daisy,"['Tom', 'Nick', 'Daisy']",I haven’t heard a word.,present,thouse
+121,1,Tom,Daisy,"['Daisy', 'Nick']","She’s a nice girl,",present,thouse
+122,1,Tom,Daisy,"['Daisy', 'Nick']",They oughtn’t to let her run around the country this way.,present,thouse
+123,1,Daisy,Tom,"['Tom', 'Nick']",Who oughtn’t to?,present,thouse
+124,1,Tom,Daisy,"['Daisy', 'Nick']",Her family.,present,thouse
+125,1,Daisy,Tom,"['Tom', 'Nick']","Her family is one aunt about a thousand years old. Besides, Nick’s going to look after her, aren’t you, Nick? She’s going to spend lots of weekends out here this summer. I think the home influence will be very good for her.",present,thouse
+126,1,Nick,Daisy,"['Tom', 'Daisy']",Is she from New York?,present,thouse
+127,1,Daisy,Nick,"['Tom', 'Nick']",From Louisville. Our white girlhood was passed together there. Our beautiful white—,present,thouse
+128,1,Tom,Daisy,"['Daisy', 'Nick']",Did you give Nick a little heart to heart talk on the veranda?,present,thouse
+129,1,Daisy,Tom,"['Tom', 'Nick']",Did I?,present,thouse
+130,1,Daisy,Tom,"['Tom', 'Nick']","I can’t seem to remember, but I think we talked about the Nordic race. Yes, I’m sure we did. It sort of crept up on us and first thing you know—",present,thouse
+131,1,Tom,Nick,"['Daisy', 'Nick']","Don’t believe everything you hear, Nick,",present,thouse
+132,1,Daisy,Nick,"['Tom', 'Nick']",Wait!,present,tgarden
+133,1,Daisy,Nick,"['Tom', 'Nick']","I forgot to ask you something, and it’s important. We heard you were engaged to a girl out West.",present,tgarden
+134,1,Tom,Nick,"['Tom', 'Nick']","That’s right,",present,tgarden
+135,1,Tom,Nick,"['Tom', 'Nick']",We heard that you were engaged.,present,tgarden
+136,1,Nick,Daisy,"['Tom', 'Daisy']",It’s a libel. I’m too poor.,present,tgarden
+137,1,Daisy,Nick,"['Tom', 'Nick']","But we heard it,",present,tgarden
+138,1,Daisy,Nick,"['Tom', 'Nick']","We heard it from three people, so it must be true.",present,tgarden
+139,2,Tom,Nick,['Nick'],"We’re getting off,",present,whouse
+140,2,Tom,Nick,['Nick'],I want you to meet my girl.,present,whouse
+141,2,Tom,MrWilson,"['MrWilson', 'Nick']","Hello, Wilson, old man,",present,whouse
+142,2,Tom,MrWilson,"['MrWilson', 'Nick']",How’s business?,present,whouse
+143,2,MrWilson,Tom,"['Tom', 'Nick']","I can’t complain,",present,whouse
+144,2,MrWilson,Tom,"['Tom', 'Nick']",When are you going to sell me that car?,present,whouse
+145,2,Tom,MrWilson,"['MrWilson', 'Nick']",Next week; I’ve got my man working on it now.,present,whouse
+146,2,MrWilson,Tom,"['Tom', 'Nick']","Works pretty slow, don’t he?",present,whouse
+147,2,Tom,MrWilson,"['MrWilson', 'Nick']","No, he doesn’t,",present,whouse
+148,2,Tom,MrWilson,"['MrWilson', 'Nick']","And if you feel that way about it, maybe I’d better sell it somewhere else after all.",present,whouse
+149,2,MrWilson,Tom,"['Tom', 'Nick']","I don’t mean that,",present,whouse
+150,2,MrWilson,Tom,"['Tom', 'Nick']",I just meant—,present,whouse
+151,2,MrsWilson,MrWilson,"['Tom', 'Nick', 'MrWilson']","Get some chairs, why don’t you, so somebody can sit down.",present,whouse
+152,2,MrWilson,MrsWilson,"['Tom', 'Nick', 'MrsWilson']","Oh, sure,",present,whouse
+153,2,Tom,MrsWilson,"['Nick', 'MrsWilson']","I want to see you,",present,whouse
+154,2,Tom,MrsWilson,"['Nick', 'MrsWilson']",Get on the next train.,present,whouse
+155,2,MrsWilson,Tom,"['Tom', 'Nick']",All right.,present,whouse
+156,2,Tom,MrsWilson,"['Nick', 'MrsWilson']",I’ll meet you by the newsstand on the lower level.,present,whouse
+157,2,Tom,Nick,['Nick'],"Terrible place, isn’t it,",present,whouse
+158,2,Nick,Tom,['Tom'],Awful.,present,whouse
+159,2,Tom,Nick,['Nick'],It does her good to get away.,present,whouse
+160,2,Nick,Tom,['Tom'],Doesn’t her husband object?,present,whouse
+161,2,Tom,Nick,['Nick'],Wilson? He thinks she goes to see her sister in New York. He’s so dumb he doesn’t know he’s alive.,present,whouse
+162,2,MrsWilson,Tom,"['Tom', 'Nick']","I want to get one of those dogs,",present,newyork
+163,2,MrsWilson,Tom,"['Tom', 'Nick']",I want to get one for the apartment. They’re nice to have—a dog.,present,newyork
+164,2,MrsWilson,oldman,"['Tom', 'Nick', 'oldman']",What kind are they?,present,newyork
+165,2,oldman,MrsWilson,"['Tom', 'Nick', 'MrsWilson']","All kinds. What kind do you want, lady?",present,newyork
+166,2,MrsWilson,oldman,"['Tom', 'Nick', 'oldman']",I’d like to get one of those police dogs; I don’t suppose you got that kind?,present,newyork
+167,2,Tom,oldman,"['MrsWilson', 'Nick', 'oldman']","That’s no police dog,",present,newyork
+168,2,oldman,Tom,"['MrsWilson', 'Nick', 'Tom']","No, it’s not exactly a police dog,",present,newyork
+169,2,oldman,Tom,"['MrsWilson', 'Nick', 'Tom']",It’s more of an Airedale.,present,newyork
+170,2,oldman,Tom,"['MrsWilson', 'Nick', 'Tom']",Look at that coat. Some coat. That’s a dog that’ll never bother you with catching cold.,present,newyork
+171,2,MrsWilson,oldman,"['Tom', 'Nick', 'oldman']","I think it’s cute,",present,newyork
+172,2,MrsWilson,oldman,"['Tom', 'Nick', 'oldman']",How much is it?,present,newyork
+173,2,oldman,MrsWilson,"['Tom', 'Nick', 'MrsWilson']",That dog?,present,newyork
+174,2,oldman,MrsWilson,"['Tom', 'Nick', 'MrsWilson']",That dog will cost you ten dollars.,present,newyork
+175,2,MrsWilson,oldman,"['Tom', 'Nick', 'oldman']",Is it a boy or a girl?,present,newyork
+176,2,oldman,MrsWilson,"['Tom', 'Nick', 'MrsWilson']",That dog? That dog’s a boy.,present,newyork
+177,2,Tom,MrsWilson,"['MrsWilson', 'Nick', 'oldman']","It’s a bitch,",present,newyork
+178,2,Tom,MrsWilson,"['MrsWilson', 'Nick', 'oldman']",Here’s your money. Go and buy ten more dogs with it.,present,newyork
+179,2,Nick,Tom,"['Tom', 'MrsWilson']","Hold on,",present,newyork
+180,2,Nick,Tom,"['Tom', 'MrsWilson']",I have to leave you here.,present,newyork
+181,2,Tom,Nick,"['Nick', 'MrsWilson']","No you don’t,",present,newyork
+182,2,Tom,Nick,"['Nick', 'MrsWilson']","Myrtle’ll be hurt if you don’t come up to the apartment. Won’t you, Myrtle?",present,newyork
+183,2,MrsWilson,Nick,"['Tom', 'Nick']","Come on,",present,newyork
+184,2,MrsWilson,Nick,"['Tom', 'Nick']",I’ll telephone my sister Catherine. She’s said to be very beautiful by people who ought to know.,present,newyork
+185,2,Nick,MrsWilson,"['Tom', 'MrsWilson']","Well, I’d like to, but—",present,newyork
+186,2,MrsWilson,Nick,"['Tom', 'Nick']","I’m going to have the McKees come up,",present,mhouse
+187,2,MrsWilson,Nick,"['Tom', 'Nick']","And, of course, I got to call up my sister, too.",present,mhouse
+188,2,MrsWilson,Catherine,"['Catherine', 'Tom', 'Nick', 'MrMckee', 'MrsMckee']","My dear,",present,mhouse
+189,2,MrsWilson,Catherine,"['Catherine', 'Tom', 'Nick', 'MrMckee', 'MrsMckee']","most of these fellas will cheat you every time. All they think of is money. I had a woman up here last week to look at my feet, and when she gave me the bill you’d of thought she had my appendicitis out.",present,mhouse
+190,2,MrsMckee,MrsWilson,"['Catherine', 'Tom', 'Nick', 'MrMckee', 'MrsWilson']",What was the name of the woman?,present,mhouse
+191,2,MrsWilson,MrsMckee,"['Catherine', 'Tom', 'Nick', 'MrMckee', 'MrsMckee']",Mrs. Eberhardt. She goes around looking at people’s feet in their own homes.,present,mhouse
+192,2,MrsMckee,MrsWilson,"['Catherine', 'Tom', 'Nick', 'MrMckee', 'MrsWilson']","I like your dress,",present,mhouse
+193,2,MrsMckee,MrsWilson,"['Catherine', 'Tom', 'Nick', 'MrMckee', 'MrsWilson']",I think it’s adorable.,present,mhouse
+194,2,MrsWilson,MrsMckee,"['Catherine', 'Tom', 'Nick', 'MrMckee', 'MrsMckee']","It’s just a crazy old thing,",present,mhouse
+195,2,MrsWilson,MrsMckee,"['Catherine', 'Tom', 'Nick', 'MrMckee', 'MrsMckee']",I just slip it on sometimes when I don’t care what I look like.,present,mhouse
+196,2,MrsMckee,MrsWilson,"['Catherine', 'Tom', 'Nick', 'MrMckee', 'MrsWilson']","But it looks wonderful on you, if you know what I mean,",present,mhouse
+197,2,MrsMckee,MrsWilson,"['Catherine', 'Tom', 'Nick', 'MrMckee', 'MrsWilson']",If Chester could only get you in that pose I think he could make something of it.,present,mhouse
+198,2,MrMckee,MrsWilson,"['Catherine', 'Tom', 'Nick', 'MrsMckee', 'MrsWilson']","I should change the light,",present,mhouse
+199,2,MrMckee,MrsWilson,"['Catherine', 'Tom', 'Nick', 'MrsMckee', 'MrsWilson']",I’d like to bring out the modelling of the features. And I’d try to get hold of all the back hair.,present,mhouse
+200,2,MrsMckee,MrMckee,"['Catherine', 'Tom', 'Nick', 'MrMckee', 'MrsWilson']","I wouldn’t think of changing the light,",present,mhouse
+201,2,MrsMckee,MrMckee,"['Catherine', 'Tom', 'Nick', 'MrMckee', 'MrsWilson']",I think it’s—,present,mhouse
+202,2,MrMckee,MrsMckee,"['Catherine', 'Tom', 'Nick', 'MrsMckee', 'MrsWilson']",Sh!,present,mhouse
+203,2,Tom,MrsWilson,"['Catherine', 'MrMckee', 'Nick', 'MrsMckee', 'MrsWilson']","You McKees have something to drink,",present,mhouse
+204,2,Tom,MrsWilson,"['Catherine', 'MrMckee', 'Nick', 'MrsMckee', 'MrsWilson']","Get some more ice and mineral water, Myrtle, before everybody goes to sleep.",present,mhouse
+205,2,MrsWilson,Tom,"['Catherine', 'Tom', 'Nick', 'MrMckee', 'MrsMckee']",I told that boy about the ice.,present,mhouse
+206,2,MrsWilson,Tom,"['Catherine', 'Tom', 'Nick', 'MrMckee', 'MrsMckee']",These people! You have to keep after them all the time.,present,mhouse
+207,2,MrMckee,Tom,"['Catherine', 'Tom', 'Nick', 'MrsMckee', 'MrsWilson']","I’ve done some nice things out on Long Island,",present,mhouse
+208,2,MrMckee,Tom,"['Catherine', 'Tom', 'Nick', 'MrsMckee', 'MrsWilson']",Two of them we have framed downstairs.,present,mhouse
+209,2,Tom,MrMckee,"['Catherine', 'MrMckee', 'Nick', 'MrsMckee', 'MrsWilson']",Two what?,present,mhouse
+210,2,MrMckee,Tom,"['Catherine', 'Tom', 'Nick', 'MrsMckee', 'MrsWilson']","Two studies. One of them I call Montauk Point—The Gulls, and the other I call Montauk Point—The Sea.",present,mhouse
+211,2,Catherine,Nick,"['MrsMckee', 'Tom', 'Nick', 'MrMckee', 'MrsWilson']","Do you live down on Long Island, too?",present,mhouse
+212,2,Nick,Catherine,"['MrsMckee', 'Tom', 'Catherine', 'MrMckee', 'MrsWilson']",I live at West Egg.,present,mhouse
+213,2,Catherine,Nick,"['MrsMckee', 'Tom', 'Nick', 'MrMckee', 'MrsWilson']",Really? I was down there at a party about a month ago. At a man named Gatsby’s. Do you know him?,present,mhouse
+214,2,Nick,Catherine,"['MrsMckee', 'Tom', 'Catherine', 'MrMckee', 'MrsWilson']",I live next door to him.,present,mhouse
+215,2,Catherine,Nick,"['MrsMckee', 'Tom', 'Nick', 'MrMckee', 'MrsWilson']","Well, they say he’s a nephew or a cousin of Kaiser Wilhelm’s. That’s where all his money comes from.",present,mhouse
+216,2,Nick,Catherine,"['MrsMckee', 'Tom', 'Catherine', 'MrMckee', 'MrsWilson']",Really?,present,mhouse
+217,2,Catherine,Nick,"['MrsMckee', 'Tom', 'Nick', 'MrMckee', 'MrsWilson']",I’m scared of him. I’d hate to have him get anything on me.,present,mhouse
+218,2,MrsMckee,MrMckee,"['Catherine', 'Tom', 'Nick', 'MrMckee', 'MrsWilson']","Chester, I think you could do something with her,",present,mhouse
+219,2,MrMckee,Tom,"['Catherine', 'Tom', 'Nick', 'MrsMckee', 'MrsWilson']","I’d like to do more work on Long Island, if I could get the entry. All I ask is that they should give me a start.",present,mhouse
+220,2,Tom,MrMckee,"['Catherine', 'MrMckee', 'Nick', 'MrsMckee', 'MrsWilson']","Ask Myrtle,",present,mhouse
+221,2,Tom,MrsWilson,"['Catherine', 'MrMckee', 'Nick', 'MrsMckee', 'MrsWilson']","She’ll give you a letter of introduction, won’t you, Myrtle?",present,mhouse
+222,2,MrsWilson,Tom,"['Catherine', 'Tom', 'Nick', 'MrMckee', 'MrsMckee']",Do what?,present,mhouse
+223,2,Tom,MrsWilson,"['Catherine', 'MrMckee', 'Nick', 'MrsMckee', 'MrsWilson']","You’ll give McKee a letter of introduction to your husband, so he can do some studies of him.",present,mhouse
+224,2,Tom,MrsWilson,"['Catherine', 'MrMckee', 'Nick', 'MrsMckee', 'MrsWilson']","George B. Wilson at the Gasoline Pump,’ or something like that.",present,mhouse
+225,2,Catherine,Nick,['Nick'],Neither of them can stand the person they’re married to.,present,mhouse
+226,2,Nick,Catherine,['Catherine'],Can’t they?,present,mhouse
+227,2,Catherine,Nick,['Nick'],Can’t stand them.,present,mhouse
+228,2,Catherine,Nick,['Nick'],"What I say is, why go on living with them if they can’t stand them? If I was them I’d get a divorce and get married to each other right away.",present,mhouse
+229,2,Nick,Catherine,['Catherine'],Doesn’t she like Wilson either?,present,mhouse
+230,2,Catherine,Nick,['Nick'],"You see,",present,mhouse
+231,2,Catherine,Nick,['Nick'],"It’s really his wife that’s keeping them apart. She’s a Catholic, and they don’t believe in divorce.",present,mhouse
+232,2,Catherine,Nick,['Nick'],"When they do get married,",present,mhouse
+233,2,Catherine,Nick,['Nick'],they’re going West to live for a while until it blows over.,present,mhouse
+234,2,Nick,Catherine,['Catherine'],It’d be more discreet to go to Europe.,present,mhouse
+235,2,Catherine,Nick,['Nick'],"Oh, do you like Europe?",present,mhouse
+236,2,Nick,Catherine,['Catherine'],I just got back from Monte Carlo.,present,mhouse
+237,2,Catherine,Nick,['Nick'],Really.,present,mhouse
+238,2,Nick,Catherine,['Catherine'],Just last year. I went over there with another girl.,present,mhouse
+239,2,Catherine,Nick,['Nick'],Stay long?,present,mhouse
+240,2,Nick,Catherine,['Catherine'],"No, we just went to Monte Carlo and back. We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gyped out of it all in two days in the private rooms. We had an awful time getting back, I can tell you. God, how I hated that town!",present,mhouse
+241,2,MrsMckee,Nick,['Nick'],"I almost made a mistake, too,",present,mhouse
+242,2,MrsMckee,Nick,['Nick'],"I almost married a little kike who’d been after me for years. I knew he was below me. Everybody kept saying to me: ‘Lucille, that man’s way below you!’ But if I hadn’t met Chester, he’d of got me sure.",present,mhouse
+243,2,MrsWilson,MrsMckee,"['MrsMckee', 'Nick']","Yes, but listen,",present,mhouse
+244,2,MrsWilson,MrsMckee,"['MrsMckee', 'Nick']",at least you didn’t marry him.,present,mhouse
+245,2,MrsMckee,MrsWilson,"['Nick', 'MrsWilson']",I know I didn’t.,present,mhouse
+246,2,MrsWilson,MrsMckee,"['MrsMckee', 'Nick']","Well, I married him,",present,mhouse
+247,2,MrsWilson,MrsMckee,"['MrsMckee', 'Nick']",And that’s the difference between your case and mine.,present,mhouse
+248,2,Catherine,MrsWilson,"['Nick', 'MrsMckee', 'MrsWilson']","Why did you, Myrtle?",present,mhouse
+249,2,Catherine,MrsWilson,"['Nick', 'MrsMckee', 'MrsWilson']",Nobody forced you to.,present,mhouse
+250,2,MrsWilson,Catherine,"['Catherine', 'MrsMckee', 'Nick']","I married him because I thought he was a gentleman,",present,mhouse
+251,2,MrsWilson,Catherine,"['Catherine', 'MrsMckee', 'Nick']","I thought he knew something about breeding, but he wasn’t fit to lick my shoe.",present,mhouse
+252,2,Catherine,MrsWilson,"['Nick', 'MrsMckee', 'MrsWilson']","You were crazy about him for a while,",present,mhouse
+253,2,MrsWilson,Catherine,"['Catherine', 'MrsMckee', 'Nick']",Crazy about him!,present,mhouse
+254,2,MrsWilson,Catherine,"['Catherine', 'MrsMckee', 'Nick']",Who said I was crazy about him? I never was any more crazy about him than I was about that man there.,present,mhouse
+255,2,MrsWilson,Catherine,"['Catherine', 'MrsMckee', 'Nick']","The only crazy I was was when I married him. I knew right away I made a mistake. He borrowed somebody’s best suit to get married in, and never even told me about it, and the man came after it one day when he was out: ‘Oh, is that your suit?’ I said. ‘This is the first I ever heard about it.’ But I gave it to him and then I lay down and cried to beat the band all afternoon.",present,mhouse
+256,2,Catherine,MrsWilson,"['Nick', 'MrsMckee', 'MrsWilson']","She really ought to get away from him,",present,mhouse
+257,2,Catherine,MrsWilson,"['Nick', 'MrsMckee', 'MrsWilson']",They’ve been living over that garage for eleven years. And Tom’s the first sweetie she ever had.,present,mhouse
+258,2,MrsWilson,Nick,['Nick'],"It was on the two little seats facing each other that are always the last ones left on the train. I was going up to New York to see my sister and spend the night. He had on a dress suit and patent leather shoes, and I couldn’t keep my eyes off him, but every time he looked at me I had to pretend to be looking at the advertisement over his head. When we came into the station he was next to me, and his white shirtfront pressed against my arm, and so I told him I’d have to call a policeman, but he knew I lied. I was so excited that when I got into a taxi with him I didn’t hardly know I wasn’t getting into a subway train. All I kept thinking about, over and over, was ‘You can’t live forever; you can’t live forever.’",present,mhouse
+259,2,MrsWilson,MrsMckee,"['MrsMckee', 'Nick']","My dear,",present,mhouse
+260,2,MrsWilson,MrsMckee,"['MrsMckee', 'Nick']","I’m going to give you this dress as soon as I’m through with it. I’ve got to get another one tomorrow. I’m going to make a list of all the things I’ve got to get. A massage and a wave, and a collar for the dog, and one of those cute little ashtrays where you touch a spring, and a wreath with a black silk bow for mother’s grave that’ll last all summer. I got to write down a list so I won’t forget all the things I got to do.",present,mhouse
+261,2,MrsWilson,Tom,['Tom'],Daisy! Daisy! Daisy!,present,mhouse
+262,2,MrsWilson,Tom,['Tom'],I’ll say it whenever I want to! Daisy! Dai—,present,mhouse
+263,2,MrMckee,Nick,"['Nick', 'elevatorboy']","Come to lunch some day,",present,mhouse
+264,2,Nick,MrMckee,"['MrMckee', 'elevatorboy']",Where?,present,mhouse
+265,2,MrMckee,Nick,"['Nick', 'elevatorboy']",Anywhere.,present,mhouse
+266,2,elevatorboy,MrMckee,"['Nick', 'MrMckee']","Keep your hands off the lever,",present,mhouse
+267,2,MrMckee,elevatorboy,"['Nick', 'elevatorboy']","I beg your pardon,",present,mhouse
+268,2,MrMckee,elevatorboy,"['Nick', 'elevatorboy']",I didn’t know I was touching it.,present,mhouse
+269,2,Nick,MrMckee,"['MrMckee', 'elevatorboy']","All right,",present,mhouse
+270,2,Nick,MrMckee,"['MrMckee', 'elevatorboy']",I’ll be glad to.,present,mhouse
+271,2,MrMckee,Nick,['Nick'],Beauty and the Beast… Loneliness… Old Grocery Horse… Brook’n Bridge…,present,mhouse
+272,3,Nick,Jordan,['Jordan'],Hello!,present,mhouse
+273,3,Jordan,Nick,['Nick'],"I thought you might be here,",present,ghouse
+274,3,Jordan,Nick,['Nick'],I remembered you lived next door to—,present,ghouse
+275,3,twogirls,Jordan,"['Jordan', 'Nick']",Hello!,present,ghouse
+276,3,twogirls,Jordan,"['Jordan', 'Nick']",Sorry you didn’t win.,present,ghouse
+277,3,twogirls,Jordan,"['Jordan', 'Nick']","You don’t know who we are,",present,ghouse
+278,3,twogirls,Jordan,"['Jordan', 'Nick']",but we met you here about a month ago.,present,ghouse
+279,3,Jordan,twogirls,"['twogirls', 'Nick']","You’ve dyed your hair since then,",present,ghouse
+280,3,Jordan,thegirl,"['Nick', 'thegirl', 'Lucille', 'othergirl', 'MrMumble']",Do you come to these parties often?,present,ghouse
+281,3,thegirl,Jordan,"['Jordan', 'Nick', 'Lucille', 'othergirl', 'MrMumble']","The last one was the one I met you at,",present,ghouse
+282,3,thegirl,Lucille,"['Jordan', 'Nick', 'Lucille', 'othergirl', 'MrMumble']","Wasn’t it for you, Lucille?",present,ghouse
+283,3,Lucille,thegirl,"['Jordan', 'Nick', 'thegirl', 'othergirl', 'MrMumble']","I like to come,",present,ghouse
+284,3,Lucille,thegirl,"['Jordan', 'Nick', 'thegirl', 'othergirl', 'MrMumble']","I never care what I do, so I always have a good time. When I was here last I tore my gown on a chair, and he asked me my name and address—inside of a week I got a package from Croirier’s with a new evening gown in it.",present,ghouse
+285,3,Jordan,Lucille,"['twogirls', 'Nick']",Did you keep it?,present,ghouse
+286,3,Lucille,Jordan,"['Jordan', 'Nick', 'thegirl', 'othergirl', 'MrMumble']","Sure I did. I was going to wear it tonight, but it was too big in the bust and had to be altered. It was gas blue with lavender beads. Two hundred and sixty-five dollars.",present,ghouse
+287,3,othergirl,Lucille,"['Jordan', 'Nick', 'thegirl', 'Lucille', 'MrMumble']","There’s something funny about a fellow that’ll do a thing like that,",present,ghouse
+288,3,othergirl,Lucille,"['Jordan', 'Nick', 'thegirl', 'Lucille', 'MrMumble']",He doesn’t want any trouble with anybody.,present,ghouse
+289,3,Nick,othergirl,"['Jordan', 'thegirl', 'Lucille', 'othergirl', 'MrMumble']",Who doesn’t?,present,ghouse
+290,3,othergirl,Nick,"['Jordan', 'Nick', 'thegirl', 'Lucille', 'MrMumble']",Gatsby. Somebody told me—,present,ghouse
+291,3,othergirl,Nick,"['Jordan', 'Nick', 'thegirl', 'Lucille', 'MrMumble']",Somebody told me they thought he killed a man once.,present,ghouse
+292,3,Lucille,othergirl,"['Jordan', 'Nick', 'thegirl', 'othergirl', 'MrMumble']","I don’t think it’s so much that,",present,ghouse
+293,3,Lucille,othergirl,"['Jordan', 'Nick', 'thegirl', 'othergirl', 'MrMumble']",It’s more that he was a German spy during the war.,present,ghouse
+294,3,MrMumble,thegirl,"['Jordan', 'Nick', 'thegirl', 'Lucille', 'othergirl']","I heard that from a man who knew all about him, grew up with him in Germany,",present,ghouse
+295,3,thegirl,MrMumble,"['Jordan', 'Nick', 'Lucille', 'othergirl', 'MrMumble']","Oh, no,",present,ghouse
+296,3,thegirl,MrMumble,"['Jordan', 'Nick', 'Lucille', 'othergirl', 'MrMumble']","it couldn’t be that, because he was in the American army during the war.",present,ghouse
+297,3,thegirl,MrMumble,"['Jordan', 'Nick', 'Lucille', 'othergirl', 'MrMumble']",You look at him sometimes when he thinks nobody’s looking at him. I’ll bet he killed a man.,present,ghouse
+298,3,Jordan,Nick,['Nick'],"Let’s get out,",present,ghouse
+299,3,Jordan,Nick,['Nick'],this is much too polite for me.,present,ghouse
+300,3,owlman,Jordan,"['Jordan', 'Nick']",What do you think?,present,ghouse
+301,3,Jordan,owlman,"['owlman', 'Nick']",About what?,present,ghouse
+302,3,owlman,Jordan,"['Jordan', 'Nick']",About that. As a matter of fact you needn’t bother to ascertain. I ascertained. They’re real.,present,ghouse
+303,3,Jordan,owlman,"['owlman', 'Nick']",The books?,present,ghouse
+304,3,owlman,Jordan,"['Jordan', 'Nick']","Absolutely real—have pages and everything. I thought they’d be a nice durable cardboard. Matter of fact, they’re absolutely real. Pages and—Here! Lemme show you.",present,ghouse
+305,3,owlman,Jordan,"['Jordan', 'Nick']",See!,present,ghouse
+306,3,owlman,Jordan,"['Jordan', 'Nick']","It’s a bona-fide piece of printed matter. It fooled me. This fella’s a regular Belasco. It’s a triumph. What thoroughness! What realism! Knew when to stop, too—didn’t cut the pages. But what do you want? What do you expect?",present,ghouse
+307,3,owlman,Jordan,"['Jordan', 'Nick']",Who brought you?,present,ghouse
+308,3,owlman,Jordan,"['Jordan', 'Nick']",Or did you just come? I was brought. Most people were brought.,present,ghouse
+309,3,owlman,Jordan,"['Jordan', 'Nick']","I was brought by a woman named Roosevelt,",present,ghouse
+310,3,owlman,Jordan,"['Jordan', 'Nick']","Mrs. Claud Roosevelt. Do you know her? I met her somewhere last night. I’ve been drunk for about a week now, and I thought it might sober me up to sit in a library.",present,ghouse
+311,3,Jordan,owlman,"['owlman', 'Nick']",Has it?,present,ghouse
+312,3,owlman,Jordan,"['Jordan', 'Nick']","A little bit, I think. I can’t tell yet. I’ve only been here an hour. Did I tell you about the books? They’re real. They’re—",present,ghouse
+313,3,Jordan,owlman,"['owlman', 'Nick']",You told us.,present,ghouse
+314,3,Gatsby,Nick,"['Nick', 'Jordan']","Your face is familiar,",present,ghouse
+315,3,Gatsby,Nick,"['Nick', 'Jordan']",Weren’t you in the First Division during the war?,present,ghouse
+316,3,Nick,Gatsby,"['Gatsby', 'Jordan']",Why yes. I was in the Twenty-eighth Infantry.,present,ghouse
+317,3,Gatsby,Nick,"['Nick', 'Jordan']",I was in the Sixteenth until June nineteen-eighteen. I knew I’d seen you somewhere before.,present,ghouse
+318,3,Gatsby,Nick,"['Nick', 'Jordan']","Want to go with me, old sport? Just near the shore along the Sound.",present,ghouse
+319,3,Nick,Gatsby,"['Gatsby', 'Jordan']",What time?,present,ghouse
+320,3,Gatsby,Nick,"['Nick', 'Jordan']",Any time that suits you best.,present,ghouse
+321,3,Jordan,Nick,"['Nick', 'Gatsby']",Having a gay time now?,present,ghouse
+322,3,Nick,Jordan,"['Gatsby', 'Jordan']",Much better.,present,ghouse
+323,3,Nick,Jordan,"['Gatsby', 'Jordan']",This is an unusual party for me. I haven’t even seen the host. I live over there—,present,ghouse
+324,3,Nick,Jordan,"['Gatsby', 'Jordan']",and this man Gatsby sent over his chauffeur with an invitation.,present,ghouse
+325,3,Gatsby,Nick,"['Nick', 'Jordan']","I’m Gatsby,",present,ghouse
+326,3,Nick,Gatsby,"['Gatsby', 'Jordan']",What!,present,ghouse
+327,3,Nick,Gatsby,"['Gatsby', 'Jordan']","Oh, I beg your pardon.",present,ghouse
+328,3,Gatsby,Nick,"['Nick', 'Jordan']","I thought you knew, old sport. I’m afraid I’m not a very good host.",present,ghouse
+329,3,Gatsby,Nick,"['Nick', 'Jordan']","If you want anything just ask for it, old sport,",present,ghouse
+330,3,Gatsby,Nick,"['Nick', 'Jordan']",Excuse me. I will rejoin you later.,present,ghouse
+331,3,Nick,Jordan,['Jordan'],Who is he?,present,ghouse
+332,3,Nick,Jordan,['Jordan'],Do you know?,present,ghouse
+333,3,Jordan,Nick,['Nick'],He’s just a man named Gatsby.,present,ghouse
+334,3,Nick,Jordan,['Jordan'],"Where is he from, I mean? And what does he do?",present,ghouse
+335,3,Jordan,Nick,['Nick'],"Now you’re started on the subject,",present,ghouse
+336,3,Jordan,Nick,['Nick'],"Well, he told me once he was an Oxford man.",present,ghouse
+337,3,Jordan,Nick,['Nick'],"However, I don’t believe it.",present,ghouse
+338,3,Nick,Jordan,['Jordan'],Why not?,present,ghouse
+339,3,Nick,Jordan,['Jordan'],"I don’t know,",present,ghouse
+340,3,Nick,Jordan,['Jordan'],I just don’t think he went there.,present,ghouse
+341,3,thegirl,Nick,['Nick'],"I think he killed a man,",past,ghouse
+342,3,Jordan,Nick,['Nick'],"Anyhow, he gives large parties,",present,ghouse
+343,3,Jordan,Nick,['Nick'],And I like large parties. They’re so intimate. At small parties there isn’t any privacy.,present,ghouse
+344,3,orchestraleader,all,['all'],"Ladies and gentlemen,",present,ghouse
+345,3,orchestraleader,all,['all'],"At the request of Mr. Gatsby we are going to play for you Mr. Vladmir Tostoff's latest work, which attracted so much attention at Carnegie Hall last May. If you read the papers you know there was a big sensation.",present,ghouse
+346,3,orchestraleader,all,['all'],Some sensation!,present,ghouse
+347,3,orchestraleader,all,['all'],"The piece is known,",present,ghouse
+348,3,orchestraleader,all,['all'],as 'Vladmir Tostoff's Jazz History of the World!',present,ghouse
+349,3,butler,Jordan,"['Nick', 'Jordan']",I beg your pardon.,present,ghouse
+350,3,butler,Jordan,"['Nick', 'Jordan']",Miss Baker?,present,ghouse
+351,3,butler,Jordan,"['Nick', 'Jordan']","I beg your pardon, but Mr. Gatsby would like to speak to you alone.",present,ghouse
+352,3,Jordan,butler,"['butler', 'Nick']",With me?,present,ghouse
+353,3,butler,Jordan,"['Nick', 'Jordan']","Yes, madame.",present,ghouse
+354,3,agirl,Nick,['Nick'],"She had a fight with a man who says he’s her husband,",present,ghouse
+355,3,wife1,husband1,['husband1'],You promised!,present,ghouse
+356,3,wife2,wife3,"['wife3', 'husband2', 'husband3']",Whenever he sees I’m having a good time he wants to go home.,present,ghouse
+357,3,wife3,wife2,"['wife2', 'husband2', 'husband3']",Never heard anything so selfish in my life.,present,ghouse
+358,3,wife2,wife3,"['wife3', 'husband2', 'husband3']",We’re always the first ones to leave.,present,ghouse
+359,3,wife3,wife2,"['wife2', 'husband2', 'husband3']",So are we.,present,ghouse
+360,3,husband2,wife2,"['wife2', 'wife3', 'husband3'","Well, we’re almost the last tonight,",present,ghouse
+361,3,husband3,wife3,"['wife2', 'wife3', 'husband4'",The orchestra left half an hour ago.,present,ghouse
+362,3,Jordan,Nick,['Nick'],"I’ve just heard the most amazing thing,",present,ghouse
+363,3,Jordan,Nick,['Nick'],How long were we in there?,present,ghouse
+364,3,Nick,Jordan,['Jordan'],"Why, about an hour.",present,ghouse
+365,3,Jordan,Nick,['Nick'],"It was… simply amazing,",present,ghouse
+366,3,Jordan,Nick,['Nick'],But I swore I wouldn’t tell it and here I am tantalizing you.,present,ghouse
+367,3,Jordan,Nick,['Nick'],Please come and see me… Phone book… Under the name of Mrs. Sigourney Howard… My aunt…,present,ghouse
+368,3,Gatsby,Nick,['Nick'],"Don’t mention it,",present,ghouse
+369,3,Gatsby,Nick,['Nick'],"Don’t give it another thought, old sport.",present,ghouse
+370,3,Gatsby,Nick,['Nick'],"And don’t forget we’re going up in the hydroplane tomorrow morning, at nine o’clock.",present,ghouse
+371,3,butler,Gatsby,"['Gatsby', 'Nick']","Philadelphia wants you on the phone, sir.",present,ghouse
+372,3,Gatsby,butler,"['butler', 'Nick']","All right, in a minute. Tell them I’ll be right there… Good night.",present,ghouse
+373,3,Nick,Gatsby,['Gatsby'],Good night.,present,ghouse
+374,3,Gatsby,Nick,['Nick'],Good night.,present,ghouse
+375,3,Gatsby,Nick,['Nick'],"Good night, old sport… Good night.",present,ghouse
+376,3,owlman,Nick,['Nick'],See!,present,ghouse
+377,3,owlman,Nick,['Nick'],It went in the ditch.,present,ghouse
+378,3,Nick,owlman,['owlman'],How’d it happen?,present,ghouse
+379,3,owlman,Nick,['Nick'],"I know nothing whatever about mechanics,",present,ghouse
+380,3,Nick,owlman,['owlman'],But how did it happen? Did you run into the wall?,present,ghouse
+381,3,owlman,Nick,['Nick'],"Don’t ask me,",present,ghouse
+382,3,owlman,Nick,['Nick'],"I know very little about driving—next to nothing. It happened, and that’s all I know.",present,ghouse
+383,3,Nick,owlman,['owlman'],"Well, if you’re a poor driver you oughtn’t to try driving at night.",present,ghouse
+384,3,owlman,Nick,['Nick'],"But I wasn’t even trying,",present,ghouse
+385,3,owlman,Nick,['Nick'],I wasn’t even trying.,present,ghouse
+386,3,Nick,owlman,['owlman'],Do you want to commit suicide?,present,ghouse
+387,3,Nick,owlman,['owlman'],You’re lucky it was just a wheel! A bad driver and not even trying!,present,ghouse
+388,3,owlman,Nick,['Nick'],"You don’t understand,",present,ghouse
+389,3,owlman,Nick,['Nick'],I wasn’t driving. There’s another man in the car.,present,ghouse
+390,3,theman,crowd,"['crowd', 'Nick']",Ah-h-h!,present,ghouse
+391,3,theman,crowd,"['crowd', 'Nick']",Wha’s matter?,present,ghouse
+392,3,theman,crowd,"['crowd', 'Nick']",Did we run outa gas?,present,ghouse
+393,3,crowd,theman,"['theman', 'Nick']",Look!,present,ghouse
+394,3,crowd,theman,"['theman', 'Nick']","It came off,",present,ghouse
+395,3,theman,crowd,"['crowd', 'Nick']",At first I din’ notice we’d stopped.,present,ghouse
+396,3,theman,crowd,"['crowd', 'Nick']",Wonder’ff tell me where there’s a gas’line station?,present,ghouse
+397,3,theman,crowd,"['crowd', 'Nick']","Back out,",present,ghouse
+398,3,theman,crowd,"['crowd', 'Nick']",Put her in reverse.,present,ghouse
+399,3,crowd,theman,"['theman', 'Nick']",But the wheel’s off!,present,ghouse
+400,3,theman,crowd,"['crowd', 'Nick']","No harm in trying,",present,ghouse
+401,3,Nick,Jordan,['Jordan'],"You’re a rotten driver,",present,road
+402,3,Nick,Jordan,['Jordan'],"Either you ought to be more careful, or you oughtn’t to drive at all.",present,road
+403,3,Jordan,Nick,['Nick'],I am careful.,present,road
+404,3,Nick,Jordan,['Jordan'],"No, you’re not.",present,road
+405,3,Jordan,Nick,['Nick'],"Well, other people are,",present,road
+406,3,Nick,Jordan,['Jordan'],What’s that got to do with it?,present,road
+407,3,Jordan,Nick,['Nick'],"They’ll keep out of my way,",present,road
+408,3,Jordan,Nick,['Nick'],It takes two to make an accident.,present,road
+409,3,Nick,Jordan,['Jordan'],Suppose you met somebody just as careless as yourself.,present,road
+410,3,Jordan,Nick,['Nick'],"I hope I never will,",present,road
+411,3,Jordan,Nick,['Nick'],I hate careless people. That’s why I like you.,present,road
+412,4,youngladies,people,['people'],"He’s a bootlegger,",present,ghouse
+413,4,youngladies,people,['people'],"One time he killed a man who had found out that he was nephew to Von Hindenburg and second cousin to the devil. Reach me a rose, honey, and pour me a last drop into that there crystal glass.",present,ghouse
+414,4,Gatsby,Nick,['Nick'],"Good morning, old sport. You’re having lunch with me today and I thought we’d ride up together.",present,nhouse
+415,4,Gatsby,Nick,['Nick'],"It’s pretty, isn’t it, old sport?",present,nhouse
+416,4,Gatsby,Nick,['Nick'],Haven’t you ever seen it before?,present,nhouse
+417,4,Gatsby,Nick,['Nick'],"Look here, old sport,",present,road
+418,4,Gatsby,Nick,['Nick'],"what’s your opinion of me, anyhow?",present,road
+419,4,Gatsby,Nick,['Nick'],"Well, I’m going to tell you something about my life,",present,road
+420,4,Gatsby,Nick,['Nick'],I don’t want you to get a wrong idea of me from all these stories you hear.,present,road
+421,4,Gatsby,Nick,['Nick'],I’ll tell you God’s truth.,present,road
+422,4,Gatsby,Nick,['Nick'],"I am the son of some wealthy people in the Middle West—all dead now. I was brought up in America but educated at Oxford, because all my ancestors have been educated there for many years. It is a family tradition.",present,road
+423,4,Nick,Gatsby,['Gatsby'],What part of the Middle West?,present,road
+424,4,Gatsby,Nick,['Nick'],San Francisco.,present,road
+425,4,Nick,Gatsby,['Gatsby'],I see.,present,road
+426,4,Gatsby,Nick,['Nick'],My family all died and I came into a good deal of money.,present,road
+427,4,Gatsby,Nick,['Nick'],"After that I lived like a young rajah in all the capitals of Europe—Paris, Venice, Rome—collecting jewels, chiefly rubies, hunting big game, painting a little, things for myself only, and trying to forget something very sad that had happened to me long ago.",present,road
+428,4,Gatsby,Nick,['Nick'],"Then came the war, old sport. It was a great relief, and I tried very hard to die, but I seemed to bear an enchanted life. I accepted a commission as first lieutenant when it began. In the Argonne Forest I took the remains of my machine-gun battalion so far forward that there was a half mile gap on either side of us where the infantry couldn’t advance. We stayed there two days and two nights, a hundred and thirty men with sixteen Lewis guns, and when the infantry came up at last they found the insignia of three German divisions among the piles of dead. I was promoted to be a major, and every Allied government gave me a decoration—even Montenegro, little Montenegro down on the Adriatic Sea!",present,road
+429,4,Gatsby,Nick,['Nick'],That’s the one from Montenegro.,present,road
+430,4,Gatsby,Nick,['Nick'],Turn it.,present,road
+431,4,Nick,Gatsby,['Gatsby'],"Major Jay Gatsby,",present,road
+432,4,Nick,Gatsby,['Gatsby'],For Valour Extraordinary.,present,road
+433,4,Gatsby,Nick,['Nick'],Here’s another thing I always carry. A souvenir of Oxford days. It was taken in Trinity Quad—the man on my left is now the Earl of Doncaster.,present,road
+434,4,Gatsby,Nick,['Nick'],"I’m going to make a big request of you today,",present,road
+435,4,Gatsby,Nick,['Nick'],"so I thought you ought to know something about me. I didn’t want you to think I was just some nobody. You see, I usually find myself among strangers because I drift here and there trying to forget the sad things that happened to me.",present,road
+436,4,Gatsby,Nick,['Nick'],You’ll hear about it this afternoon.,present,road
+437,4,Nick,Gatsby,['Gatsby'],At lunch?,present,road
+438,4,Gatsby,Nick,['Nick'],"No, this afternoon. I happened to find out that you’re taking Miss Baker to tea.",present,road
+439,4,Nick,Gatsby,['Gatsby'],Do you mean you’re in love with Miss Baker?,present,road
+440,4,Gatsby,Nick,['Nick'],"No, old sport, I’m not. But Miss Baker has kindly consented to speak to you about this matter.",present,road
+441,4,Gatsby,policeman,"['policeman', 'Nick']","All right, old sport,",present,road
+442,4,policeman,Gatsby,"[Gatsby', 'Nick']","Right you are,",present,road
+443,4,policeman,Gatsby,"[Gatsby', 'Nick']","Know you next time, Mr. Gatsby. Excuse me!",present,road
+444,4,Nick,Gatsby,['Gatsby'],What was that?,present,road
+445,4,Nick,Gatsby,['Gatsby'],The picture of Oxford?,present,road
+446,4,Gatsby,Nick,['Nick'],"I was able to do the commissioner a favour once, and he sends me a Christmas card every year.",present,road
+447,4,Gatsby,Nick,"['Nick', 'Wolfshiem']","Mr. Carraway, this is my friend Mr. Wolfshiem.",present,diner
+448,4,Wolfshiem,Nick,"['Nick', 'Gatsby']","—So I took one look at him,",present,diner
+449,4,Wolfshiem,Nick,"['Nick', 'Gatsby']",and what do you think I did?,present,diner
+450,4,Nick,Wolfshiem,"['Wolfshiem', 'Gatsby']",What?,present,diner
+451,4,Wolfshiem,Nick,"['Nick', 'Gatsby']","I handed the money to Katspaugh and I said: ‘All right, Katspaugh, don’t pay him a penny till he shuts his mouth.’ He shut it then and there.",present,diner
+452,4,waiter,Wolfshiem,"['Nick', 'Gatsby', 'Wolfshiem']",Highballs?,present,diner
+453,4,Wolfshiem,waiter,"['waiter', 'Nick', 'Gatsby']","This is a nice restaurant here,",present,diner
+454,4,Wolfshiem,waiter,"['waiter', 'Nick', 'Gatsby']",But I like across the street better!,present,diner
+455,4,Gatsby,waiter,"['waiter', 'Nick', 'Wolfshiem']","Yes, highballs,",present,diner
+456,4,Gatsby,Wolfshiem,"['Nick', 'Wolfshiem']",It’s too hot over there.,present,diner
+457,4,Wolfshiem,Gatsby,"['Nick', 'Gatsby']","Hot and small—yes,",present,diner
+458,4,Wolfshiem,Gatsby,"['Nick', 'Gatsby']",but full of memories.,present,diner
+459,4,Nick,Wolfshiem,"['Wolfshiem', 'Gatsby']",What place is that?,present,diner
+460,4,Gatsby,Nick,"['Nick', 'Wolfshiem']",The old Metropole.,present,diner
+461,4,Wolfshiem,Nick,"['Nick', 'Gatsby']","The old Metropole,",present,diner
+462,4,Wolfshiem,Nick,"['Nick', 'Gatsby']","Filled with faces dead and gone. Filled with friends gone now forever. I can’t forget so long as I live the night they shot Rosy Rosenthal there. It was six of us at the table, and Rosy had eat and drunk a lot all evening. When it was almost morning the waiter came up to him with a funny look and says somebody wants to speak to him outside. ‘All right,’ says Rosy, and begins to get up, and I pulled him down in his chair.",present,diner
+463,4,Wolfshiem,Nick,"['Nick', 'Gatsby']","‘Let the bastards come in here if they want you, Rosy, but don’t you, so help me, move outside this room.’",present,diner
+464,4,Wolfshiem,Nick,"['Nick', 'Gatsby']","It was four o’clock in the morning then, and if we’d of raised the blinds we’d of seen daylight.",present,diner
+465,4,Nick,Wolfshiem,"['Wolfshiem', 'Gatsby']",Did he go?,present,diner
+466,4,Wolfshiem,Nick,"['Nick', 'Gatsby']",Sure he went.,present,diner
+467,4,Wolfshiem,Nick,"['Nick', 'Gatsby']","He turned around in the door and says: ‘Don’t let that waiter take away my coffee!’ Then he went out on the sidewalk, and they shot him three times in his full belly and drove away.",present,diner
+468,4,Nick,Wolfshiem,"['Wolfshiem', 'Gatsby']","Four of them were electrocuted,",present,diner
+469,4,Wolfshiem,Nick,"['Nick', 'Gatsby']","Five, with Becker.",present,diner
+470,4,Wolfshiem,Nick,"['Nick', 'Gatsby']",I understand you’re looking for a business gonnegtion.,present,diner
+471,4,Gatsby,Wolfshiem,"['Nick', 'Wolfshiem']","Oh, no,",present,diner
+472,4,Gatsby,Wolfshiem,"['Nick', 'Wolfshiem']",this isn’t the man.,present,diner
+473,4,Wolfshiem,Gatsby,"['Nick', 'Gatsby']",No?,present,diner
+474,4,Gatsby,Wolfshiem,"['Nick', 'Wolfshiem']",This is just a friend. I told you we’d talk about that some other time.,present,diner
+475,4,Wolfshiem,Gatsby,"['Nick', 'Gatsby']","I beg your pardon,",present,diner
+476,4,Wolfshiem,Gatsby,"['Nick', 'Gatsby']",I had a wrong man.,present,diner
+477,4,Gatsby,Nick,"['Nick', 'Wolfshiem']","Look here, old sport,",present,diner
+478,4,Gatsby,Nick,"['Nick', 'Wolfshiem']",I’m afraid I made you a little angry this morning in the car.,present,diner
+479,4,Nick,Gatsby,"['Wolfshiem', 'Gatsby']","I don’t like mysteries,",present,diner
+480,4,Nick,Gatsby,"['Wolfshiem', 'Gatsby']",and I don’t understand why you won’t come out frankly and tell me what you want. Why has it all got to come through Miss Baker?,present,diner
+481,4,Gatsby,Nick,"['Nick', 'Wolfshiem']","Oh, it’s nothing underhand,",present,diner
+482,4,Gatsby,Nick,"['Nick', 'Wolfshiem']","Miss Baker’s a great sportswoman, you know, and she’d never do anything that wasn’t all right.",present,diner
+483,4,Wolfshiem,Nick,['Nick'],"He has to telephone,",present,diner
+484,4,Wolfshiem,Nick,['Nick'],"Fine fellow, isn’t he? Handsome to look at and a perfect gentleman.",present,diner
+485,4,Nick,Wolfshiem,['Wolfshiem'],Yes.,present,diner
+486,4,Wolfshiem,Nick,['Nick'],He’s an Oggsford man.,present,diner
+487,4,Nick,Wolfshiem,['Wolfshiem'],Oh!,present,diner
+488,4,Wolfshiem,Nick,['Nick'],He went to Oggsford College in England. You know Oggsford College?,present,diner
+489,4,Nick,Wolfshiem,['Wolfshiem'],I’ve heard of it.,present,diner
+490,4,Wolfshiem,Nick,['Nick'],It’s one of the most famous colleges in the world.,present,diner
+491,4,Nick,Wolfshiem,['Wolfshiem'],Have you known Gatsby for a long time?,present,diner
+492,4,Wolfshiem,Nick,['Nick'],"Several years,",present,diner
+493,4,Wolfshiem,Nick,['Nick'],I made the pleasure of his acquaintance just after the war. But I knew I had discovered a man of fine breeding after I talked with him an hour. I said to myself: ‘There’s the kind of man you’d like to take home and introduce to your mother and sister.’,present,diner
+494,4,Wolfshiem,Nick,['Nick'],I see you’re looking at my cuff buttons.,present,diner
+495,4,Wolfshiem,Nick,['Nick'],"Finest specimens of human molars,",present,diner
+496,4,Nick,Wolfshiem,['Wolfshiem'],Well!,present,diner
+497,4,Nick,Wolfshiem,['Wolfshiem'],That’s a very interesting idea.,present,diner
+498,4,Wolfshiem,Nick,['Nick'],Yeah.,present,diner
+499,4,Wolfshiem,Nick,['Nick'],"Yeah, Gatsby’s very careful about women. He would never so much as look at a friend’s wife.",present,diner
+500,4,Wolfshiem,Gatsby,"['Nick', 'Gatsby']","I have enjoyed my lunch,",present,diner
+501,4,Wolfshiem,Gatsby,"['Nick', 'Gatsby']",and I’m going to run off from you two young men before I outstay my welcome.,present,diner
+502,4,Gatsby,Wolfshiem,"['Nick', 'Wolfshiem']","Don’t hurry Meyer,",present,diner
+503,4,Wolfshiem,Gatsby,"['Nick', 'Gatsby']","You’re very polite, but I belong to another generation,",present,diner
+504,4,Wolfshiem,Gatsby,"['Nick', 'Gatsby']",You sit here and discuss your sports and your young ladies and your—,present,diner
+505,4,Wolfshiem,Gatsby,"['Nick', 'Gatsby']","As for me, I am fifty years old, and I won’t impose myself on you any longer.",present,diner
+506,4,Gatsby,Nick,['Nick'],"He becomes very sentimental sometimes,",present,diner
+507,4,Gatsby,Nick,['Nick'],This is one of his sentimental days. He’s quite a character around New York—a denizen of Broadway.,present,diner
+508,4,Nick,Gatsby,['Gatsby'],"Who is he, anyhow, an actor?",present,diner
+509,4,Gatsby,Nick,['Nick'],No.,present,diner
+510,4,Nick,Gatsby,['Gatsby'],A dentist?,present,diner
+511,4,Gatsby,Nick,['Nick'],"Meyer Wolfshiem? No, he’s a gambler.",present,diner
+512,4,Gatsby,Nick,['Nick'],He’s the man who fixed the World’s Series back in 1919.,present,diner
+513,4,Nick,Gatsby,['Gatsby'],Fixed the World’s Series?,present,diner
+514,4,Nick,Gatsby,['Gatsby'],How did he happen to do that?,present,diner
+515,4,Gatsby,Nick,['Nick'],He just saw the opportunity.,present,diner
+516,4,Nick,Gatsby,['Gatsby'],Why isn’t he in jail?,present,diner
+517,4,Gatsby,Nick,['Nick'],"They can’t get him, old sport. He’s a smart man.",present,diner
+518,4,Nick,Gatsby,['Gatsby'],"Come along with me for a minute,",present,diner
+519,4,Nick,Gatsby,['Gatsby'],I’ve got to say hello to someone.,present,diner
+520,4,Tom,Nick,"['Nick', 'Gatsby']",Where’ve you been?,present,diner
+521,4,Tom,Nick,"['Nick', 'Gatsby']",Daisy’s furious because you haven’t called up.,present,diner
+522,4,Nick,Tom,"['Tom', 'Gatsby']","This is Mr. Gatsby, Mr. Buchanan.",present,diner
+523,4,Tom,Nick,"['Nick', 'Gatsby']","How’ve you been, anyhow?",present,diner
+524,4,Tom,Nick,"['Nick', 'Gatsby']",How’d you happen to come up this far to eat?,present,diner
+525,4,Nick,Tom,"['Tom', 'Gatsby']",I’ve been having lunch with Mr. Gatsby.,present,diner
+526,4,Jordan,Nick,['Nick'],"One October day in nineteen-seventeen——I was walking along from one place to another, half on the sidewalks and half on the lawns. I was happier on the lawns because I had on shoes from England with rubber knobs on the soles that bit into the soft ground. I had on a new plaid skirt also that blew a little in the wind, and whenever this happened the red, white, and blue banners in front of all the houses stretched out stiff and said tut-tut-tut-tut, in a disapproving way. The largest of the banners and the largest of the lawns belonged to Daisy Fay’s house. She was just eighteen, two years older than me, and by far the most popular of all the young girls in Louisville. She dressed in white, and had a little white roadster, and all day long the telephone rang in her house and excited young officers from Camp Taylor demanded the privilege of monopolizing her that night.",present,hotel
+527,4,officers,Daisy,['Daisy'],"“Anyways, for an hour!”",past,dhouse
+528,4,Jordan,Nick,['Nick'],"When I came opposite her house that morning her white roadster was beside the kerb, and she was sitting in it with a lieutenant I had never seen before. They were so engrossed in each other that she didn’t see me until I was five feet away.",present,hotel
+529,4,Daisy,Jordan,['Jordan'],"Hello, Jordan,",past,dhouse
+530,4,Daisy,Jordan,['Jordan'],Please come here.,past,dhouse
+531,4,Jordan,Nick,['Nick'],"I was flattered that she wanted to speak to me, because of all the older girls I admired her most. She asked me if I was going to the Red Cross to make bandages. I was. Well, then, would I tell them that she couldn’t come that day? The officer looked at Daisy while she was speaking, in a way that every young girl wants to be looked at sometime, and because it seemed romantic to me I have remembered the incident ever since. His name was Jay Gatsby, and I didn’t lay eyes on him again for over four years—even after I’d met him on Long Island I didn’t realize it was the same man. That was nineteen-seventeen. By the next year I had a few beaux myself, and I began to play in tournaments, so I didn’t see Daisy very often. She went with a slightly older crowd—when she went with anyone at all. Wild rumours were circulating about her—how her mother had found her packing her bag one winter night to go to New York and say goodbye to a soldier who was going overseas. She was effectually prevented, but she wasn’t on speaking terms with her family for several weeks. After that she didn’t play around with the soldiers any more, but only with a few flat-footed, shortsighted young men in town, who couldn’t get into the army at all. By the next autumn she was gay again, gay as ever. She had a début after the armistice, and in February she was presumably engaged to a man from New Orleans. In June she married Tom Buchanan of Chicago, with more pomp and circumstance than Louisville ever knew before. He came down with a hundred people in four private cars, and hired a whole floor of the Muhlbach Hotel, and the day before the wedding he gave her a string of pearls valued at three hundred and fifty thousand dollars. I was a bridesmaid. I came into her room half an hour before the bridal dinner, and found her lying on her bed as lovely as the June night in her flowered dress—and as drunk as a monkey. She had a bottle of Sauterne in one hand and a letter in the other.",present,hotel
+532,4,Daisy,Jordan,['Jordan'],"’Gratulate me,",past,dhouse
+533,4,Daisy,Jordan,['Jordan'],"Never had a drink before, but oh how I do enjoy it.",past,dhouse
+534,4,Jordan,Daisy,['Daisy'],"What’s the matter, Daisy?",past,dhouse
+535,4,Daisy,Jordan,['Jordan'],"Here, dearies.",past,dhouse
+536,4,Daisy,Jordan,['Jordan'],Take ’em downstairs and give ’em back to whoever they belong to. Tell ’em all Daisy’s change’ her mine. Say: ‘Daisy’s change’ her mine!’,past,dhouse
+537,4,Jordan,Daisy,['Nick'],She groped around in a wastebasket she had with her on the bed and pulled out the string of pearls.,present,hotel
+538,4,Jordan,Nick,['Nick'],"She began to cry—she cried and cried. I rushed out and found her mother’s maid, and we locked the door and got her into a cold bath. She wouldn’t let go of the letter. She took it into the tub with her and squeezed it up in a wet ball, and only let me leave it in the soap-dish when she saw that it was coming to pieces like snow. But she didn’t say another word. We gave her spirits of ammonia and put ice on her forehead and hooked her back into her dress, and half an hour later, when we walked out of the room, the pearls were around her neck and the incident was over. Next day at five o’clock she married Tom Buchanan without so much as a shiver, and started off on a three months’ trip to the South Seas. I saw them in Santa Barbara when they came back, and I thought I’d never seen a girl so mad about her husband. If he left the room for a minute she’d look around uneasily, and say:",present,hotel
+539,4,Daisy,none,['Jordan'],Where’s Tom gone?,past,thouse
+540,4,Jordan,Nick,['Nick'],"and wear the most abstracted expression until she saw him coming in the door. She used to sit on the sand with his head in her lap by the hour, rubbing her fingers over his eyes and looking at him with unfathomable delight. It was touching to see them together—it made you laugh in a hushed, fascinated way. That was in August. A week after I left Santa Barbara Tom ran into a wagon on the Ventura road one night, and ripped a front wheel off his car. The girl who was with him got into the papers, too, because her arm was broken—she was one of the chambermaids in the Santa Barbara Hotel. The next April Daisy had her little girl, and they went to France for a year. I saw them one spring in Cannes, and later in Deauville, and then they came back to Chicago to settle down. Daisy was popular in Chicago, as you know. They moved with a fast crowd, all of them young and rich and wild, but she came out with an absolutely perfect reputation. Perhaps because she doesn’t drink. It’s a great advantage not to drink among hard-drinking people. You can hold your tongue and, moreover, you can time any little irregularity of your own so that everybody else is so blind that they don’t see or care. Perhaps Daisy never went in for amour at all—and yet there’s something in that voice of hers… Well, about six weeks ago, she heard the name Gatsby for the first time in years. It was when I asked you—do you remember?—if you knew Gatsby in West Egg. After you had gone home she came into my room and woke me up, and said:",present,hotel
+541,4,Daisy,Jordan,['Jordan'],What Gatsby?,past,thouse
+542,4,Jordan,Nick,['Nick'],and when I described him—I was half asleep—she said in the strangest voice that it must be the man she used to know. It wasn’t until then that I connected this Gatsby with the officer in her white car.,present,hotel
+543,4,Nick,Jordan,['Jordan'],"It was a strange coincidence,",present,hotel
+544,4,Jordan,Nick,['Nick'],But it wasn’t a coincidence at all.,present,hotel
+545,4,Nick,Jordan,['Jordan'],Why not?,present,hotel
+546,4,Jordan,Nick,['Nick'],Gatsby bought that house so that Daisy would be just across the bay.,present,hotel
+547,4,Jordan,Nick,['Nick'],"He wants to know,",present,hotel
+548,4,Jordan,Nick,['Nick'],if you’ll invite Daisy to your house some afternoon and then let him come over.,present,hotel
+549,4,Nick,Jordan,['Jordan'],Did I have to know all this before he could ask such a little thing?,present,hotel
+550,4,Jordan,Nick,['Nick'],"He’s afraid, he’s waited so long. He thought you might be offended. You see, he’s regular tough underneath it all.",present,hotel
+551,4,Nick,Jordan,['Jordan'],Why didn’t he ask you to arrange a meeting?,present,hotel
+552,4,Jordan,Nick,['Nick'],"He wants her to see his house,",present,hotel
+553,4,Jordan,Nick,['Nick'],And your house is right next door.,present,hotel
+554,4,Nick,Jordan,['Jordan'],Oh!,present,hotel
+555,4,Jordan,Nick,['Nick'],"I think he half expected her to wander into one of his parties, some night,",present,hotel
+556,4,Jordan,Nick,['Nick'],"but she never did. Then he began asking people casually if they knew her, and I was the first one he found. It was that night he sent for me at his dance, and you should have heard the elaborate way he worked up to it. Of course, I immediately suggested a luncheon in New York—and I thought he’d go mad:",present,hotel
+557,4,Gatsby,Jordan,['Jordan'],I don’t want to do anything out of the way!,past,hotel
+558,4,Gatsby,Jordan,['Jordan'],I want to see her right next door.,past,hotel
+559,4,Jordan,Nick,['Nick'],"When I said you were a particular friend of Tom’s, he started to abandon the whole idea. He doesn’t know very much about Tom, though he says he’s read a Chicago paper for years just on the chance of catching a glimpse of Daisy’s name.",present,hotel
+560,4,Jordan,Nick,['Nick'],"And Daisy ought to have something in her life,",present,hotel
+561,4,Nick,Jordan,['Jordan'],Does she want to see Gatsby?,present,hotel
+562,4,Jordan,Nick,['Nick'],She’s not to know about it. Gatsby doesn’t want her to know. You’re just supposed to invite her to tea.,present,hotel
+563,5,Nick,Gatsby,['Gatsby'],"Your place looks like the World’s Fair,",present,ghouse
+564,5,Gatsby,Nick,['Nick'],Does it?,present,ghouse
+565,5,Gatsby,Nick,['Nick'],"I have been glancing into some of the rooms. Let’s go to Coney Island, old sport. In my car.",present,ghouse
+566,5,Nick,Gatsby,['Gatsby'],It’s too late.,present,ghouse
+567,5,Gatsby,Nick,['Nick'],"Well, suppose we take a plunge in the swimming pool? I haven’t made use of it all summer.",present,ghouse
+568,5,Nick,Gatsby,['Gatsby'],I’ve got to go to bed.,present,ghouse
+569,5,Gatsby,Nick,['Nick'],All right.,present,ghouse
+570,5,Nick,Gatsby,['Gatsby'],"I talked with Miss Baker,",present,ghouse
+571,5,Nick,Gatsby,['Gatsby'],I’m going to call up Daisy tomorrow and invite her over here to tea.,present,ghouse
+572,5,Gatsby,Nick,['Nick'],"Oh, that’s all right,",present,ghouse
+573,5,Gatsby,Nick,['Nick'],I don’t want to put you to any trouble.,present,ghouse
+574,5,Nick,Gatsby,['Gatsby'],What day would suit you?,present,ghouse
+575,5,Gatsby,Nick,['Nick'],What day would suit you?,present,ghouse
+576,5,Gatsby,Nick,['Nick'],"I don’t want to put you to any trouble, you see.",present,ghouse
+577,5,Nick,Gatsby,['Gatsby'],How about the day after tomorrow?,present,ghouse
+578,5,Gatsby,Nick,['Nick'],"I want to get the grass cut,",present,ghouse
+579,5,Gatsby,Nick,['Nick'],"There’s another little thing,",present,ghouse
+580,5,Nick,Gatsby,['Gatsby'],Would you rather put it off for a few days?,present,ghouse
+581,5,Gatsby,Nick,['Nick'],"Oh, it isn’t about that. At least—",present,ghouse
+582,5,Gatsby,Nick,['Nick'],"Why, I thought—why, look here, old sport, you don’t make much money, do you?",present,ghouse
+583,5,Nick,Gatsby,['Gatsby'],Not very much.,present,ghouse
+584,5,Gatsby,Nick,['Nick'],"I thought you didn’t, if you’ll pardon my—you see, I carry on a little business on the side, a sort of side line, you understand. And I thought that if you don’t make very much—You’re selling bonds, aren’t you, old sport?",present,ghouse
+585,5,Nick,Gatsby,['Gatsby'],Trying to.,present,ghouse
+586,5,Gatsby,Nick,['Nick'],"Well, this would interest you. It wouldn’t take up much of your time and you might pick up a nice bit of money. It happens to be a rather confidential sort of thing.",present,ghouse
+587,5,Nick,Gatsby,['Gatsby'],"I’ve got my hands full,",present,ghouse
+588,5,Nick,Gatsby,['Gatsby'],I’m much obliged but I couldn’t take on any more work.,present,ghouse
+589,5,Gatsby,Nick,['Nick'],You wouldn’t have to do any business with Wolfshiem.,present,ghouse
+590,5,Nick,Daisy,['Daisy'],"Don’t bring Tom,",present,phone
+591,5,Daisy,Nick,['Nick'],What?,present,phone
+592,5,Nick,Daisy,['Daisy'],Don’t bring Tom.,present,phone
+593,5,Daisy,Nick,['Nick'],Who is ‘Tom’?,present,phone
+594,5,Gatsby,Nick,['Nick'],Is everything all right?,present,nhouse
+595,5,Nick,Gatsby,['Gatsby'],"The grass looks fine, if that’s what you mean.",present,nhouse
+596,5,Gatsby,Nick,['Nick'],What grass?,present,nhouse
+597,5,Gatsby,Nick,['Nick'],"Oh, the grass in the yard.",present,nhouse
+598,5,Gatsby,Nick,['Nick'],"Looks very good,",present,nhouse
+599,5,Gatsby,Nick,['Nick'],One of the papers said they thought the rain would stop about four. I think it was The Journal. Have you got everything you need in the shape of—of tea?,present,nhouse
+600,5,Nick,Gatsby,['Gatsby'],Will they do?,present,nhouse
+601,5,Gatsby,Nick,['Nick'],"Of course, of course! They’re fine!",present,nhouse
+602,5,Gatsby,Nick,['Nick'],… old sport.,present,nhouse
+603,5,Nick,Gatsby,['Gatsby'],Why’s that?,present,nhouse
+604,5,Gatsby,Nick,['Nick'],Nobody’s coming to tea. It’s too late!,present,nhouse
+605,5,Gatsby,Nick,['Nick'],I can’t wait all day.,present,nhouse
+606,5,Nick,Gatsby,['Gatsby'],Don’t be silly; it’s just two minutes to four.,present,nhouse
+607,5,Daisy,Nick,['Nick'],"Is this absolutely where you live, my dearest one?",present,nhouse
+608,5,Daisy,Nick,['Nick'],"Are you in love with me,",present,nhouse
+609,5,Daisy,Nick,['Nick'],or why did I have to come alone?,present,nhouse
+610,5,Nick,Daisy,['Daisy'],That’s the secret of Castle Rackrent. Tell your chauffeur to go far away and spend an hour.,present,nhouse
+611,5,Daisy,Ferdie,"['Ferdie', 'Nick']","Come back in an hour, Ferdie.",present,nhouse
+612,5,Daisy,Nick,['Nick'],His name is Ferdie.,present,nhouse
+613,5,Nick,Daisy,['Daisy'],Does the gasoline affect his nose?,present,nhouse
+614,5,Daisy,Nick,['Nick'],"I don’t think so,",present,nhouse
+615,5,Daisy,Nick,['Nick'],Why?,present,nhouse
+616,5,Nick,Daisy,['Daisy'],"Well, that’s funny,",present,nhouse
+617,5,Daisy,Nick,['Nick'],What’s funny?,present,nhouse
+618,5,Daisy,Gatsby,['Gatsby'],I certainly am awfully glad to see you again.,present,nhouse
+619,5,Gatsby,Daisy,['Daisy'],"We’ve met before,",present,nhouse
+620,5,Gatsby,Nick,"['Nick', 'Daisy']","I’m sorry about the clock,",present,nhouse
+621,5,Nick,Gatsby,"['Gatsby', 'Daisy]","It’s an old clock,",present,nhouse
+622,5,Daisy,Gatsby,"['Gatsby', 'Nick']","We haven’t met for many years,",present,nhouse
+623,5,Gatsby,Daisy,"['Nick', 'Daisy']",Five years next November.,present,nhouse
+624,5,Gatsby,Nick,"['Nick', 'Daisy']",Where are you going?,present,nhouse
+625,5,Nick,Gatsby,"['Gatsby', 'Daisy]",I’ll be back.,present,nhouse
+626,5,Gatsby,Nick,"['Nick', 'Daisy']",I’ve got to speak to you about something before you go.,present,nhouse
+627,5,Gatsby,Nick,['Nick'],"Oh, God!",present,nhouse
+628,5,Nick,Gatsby,['Gatsby'],What’s the matter?,present,nhouse
+629,5,Gatsby,Nick,['Nick'],"This is a terrible mistake,",present,nhouse
+630,5,Gatsby,Nick,['Nick'],"a terrible, terrible mistake.",present,nhouse
+631,5,Nick,Gatsby,['Gatsby'],"You’re just embarrassed, that’s all,",present,nhouse
+632,5,Nick,Gatsby,['Gatsby'],Daisy’s embarrassed too.,present,nhouse
+633,5,Gatsby,Nick,['Nick'],She’s embarrassed?,present,nhouse
+634,5,Nick,Gatsby,['Gatsby'],Just as much as you are.,present,nhouse
+635,5,Gatsby,Nick,['Nick'],Don’t talk so loud.,present,nhouse
+636,5,Nick,Gatsby,['Gatsby'],"You’re acting like a little boy,",present,nhouse
+637,5,Nick,Gatsby,['Gatsby'],"Not only that, but you’re rude. Daisy’s sitting in there all alone.",present,nhouse
+638,5,Gatsby,Nick,"['Nick', 'Daisy']","Oh, hello, old sport,",present,nhouse
+639,5,Nick,Gatsby,"['Gatsby', 'Daisy]",It’s stopped raining.,present,nhouse
+640,5,Gatsby,Nick,"['Nick', 'Daisy']",Has it?,present,nhouse
+641,5,Gatsby,Daisy,"['Nick', 'Daisy']",What do you think of that? It’s stopped raining.,present,nhouse
+642,5,Daisy,Gatsby,"['Gatsby', 'Nick']","I’m glad, Jay.",present,nhouse
+643,5,Gatsby,Nick,"['Nick', 'Daisy']","I want you and Daisy to come over to my house,",present,nhouse
+644,5,Gatsby,Nick,"['Nick', 'Daisy']",I’d like to show her around.,present,nhouse
+645,5,Nick,Gatsby,"['Gatsby', 'Daisy]",You’re sure you want me to come?,present,nhouse
+646,5,Gatsby,Nick,"['Nick', 'Daisy']","Absolutely, old sport.",present,nhouse
+647,5,Gatsby,Nick,['Nick'],"My house looks well, doesn’t it?",present,nhouse
+648,5,Gatsby,Nick,['Nick'],See how the whole front of it catches the light.,present,nhouse
+649,5,Gatsby,Nick,['Nick'],Yes.,present,nhouse
+650,5,Gatsby,Nick,['Nick'],It took me just three years to earn the money that bought it.,present,nhouse
+651,5,Nick,Gatsby,['Gatsby'],I thought you inherited your money.,present,nhouse
+652,5,Gatsby,Nick,['Nick'],"I did, old sport,",present,nhouse
+653,5,Gatsby,Nick,['Nick'],but I lost most of it in the big panic—the panic of the war.,present,nhouse
+654,5,Gatsby,Nick,['Nick'],"That’s my affair,",present,nhouse
+655,5,Gatsby,Nick,['Nick'],"Oh, I’ve been in several things,",present,nhouse
+656,5,Gatsby,Nick,['Nick'],I was in the drug business and then I was in the oil business. But I’m not in either one now.,present,nhouse
+657,5,Gatsby,Nick,['Nick'],Do you mean you’ve been thinking over what I proposed the other night?,present,nhouse
+658,5,Daisy,Gatsby,"['Gatsby', 'Nick']",That huge place there?,present,nhouse
+659,5,Gatsby,Daisy,"['Nick', 'Daisy']",Do you like it?,present,nhouse
+660,5,Daisy,Gatsby,"['Gatsby', 'Nick']","I love it, but I don’t see how you live there all alone.",present,nhouse
+661,5,Gatsby,Daisy,"['Nick', 'Daisy']","I keep it always full of interesting people, night and day. People who do interesting things. Celebrated people.",present,nhouse
+662,5,Gatsby,Nick,"['Nick', 'Daisy']","It’s the funniest thing, old sport,",present,ghouse
+663,5,Gatsby,Nick,"['Nick', 'Daisy']",I can’t—When I try to—,present,ghouse
+664,5,Gatsby,Daisy,"['Nick', 'Daisy']","I’ve got a man in England who buys me clothes. He sends over a selection of things at the beginning of each season, spring and fall.",present,ghouse
+665,5,Daisy,Gatsby,"['Gatsby', 'Nick']","They’re such beautiful shirts,",present,ghouse
+666,5,Daisy,Gatsby,"['Gatsby', 'Nick']",It makes me sad because I’ve never seen such—such beautiful shirts before.,present,ghouse
+667,5,Gatsby,Daisy,"['Nick', 'Daisy']","If it wasn’t for the mist we could see your home across the bay,",present,ghouse
+668,5,Gatsby,Daisy,"['Nick', 'Daisy']",You always have a green light that burns all night at the end of your dock.,present,ghouse
+669,5,Nick,Gatsby,"['Gatsby', 'Daisy]",Who’s this?,present,ghouse
+670,5,Gatsby,Nick,"['Nick', 'Daisy']","That? That’s Mr. Dan Cody, old sport.",present,ghouse
+671,5,Gatsby,Nick,"['Nick', 'Daisy']",He’s dead now. He used to be my best friend years ago.,present,ghouse
+672,5,Daisy,Gatsby,"['Gatsby', 'Nick']","I adore it,",present,ghouse
+673,5,Daisy,Gatsby,"['Gatsby', 'Nick']",The pompadour! You never told me you had a pompadour—or a yacht.,present,ghouse
+674,5,Gatsby,Daisy,"['Nick', 'Daisy']","Look at this,",present,ghouse
+675,5,Gatsby,Daisy,"['Nick', 'Daisy']",Here’s a lot of clippings—about you.,present,ghouse
+676,5,Gatsby,phone,['phone'],"Yes… Well, I can’t talk now… I can’t talk now, old sport… I said a small town… He must know what a small town is… Well, he’s no use to us if Detroit is his idea of a small town…",present,phone
+677,5,Daisy,Gatsby,"['Gatsby', 'Nick']",Come here quick!,present,ghouse
+678,5,Daisy,Gatsby,"['Gatsby', 'Nick']","Look at that,",present,ghouse
+679,5,Daisy,Gatsby,"['Gatsby', 'Nick']",I’d like to just get one of those pink clouds and put you in it and push you around.,present,ghouse
+680,5,Gatsby,Daisy,"['Nick', 'Daisy']","I know what we’ll do,",present,ghouse
+681,5,Gatsby,Daisy,"['Nick', 'Daisy']",we’ll have Klipspringer play the piano.,present,ghouse
+682,5,Gatsby,Ewing,['Ewing'],Ewing!,present,ghouse
+683,5,Daisy,Ewing,"['Gatsby', 'Nick', 'Ewing']",Did we interrupt your exercise?,present,ghouse
+684,5,Ewing,Daisy,"['Nick', 'Daisy', 'Gatsby']","I was asleep,",present,ghouse
+685,5,Ewing,Daisy,"['Nick', 'Daisy', 'Gatsby']","That is, I’d been asleep. Then I got up…",present,ghouse
+686,5,Gatsby,Ewing,"['Nick', 'Daisy', 'Ewing']","Klipspringer plays the piano,",present,ghouse
+687,5,Gatsby,Ewing,"['Nick', 'Daisy', 'Ewing']","Don’t you, Ewing, old sport?",present,ghouse
+688,5,Ewing,Gatsby,"['Nick', 'Daisy', 'Gatsby']",I don’t play well. I don’t—hardly play at all. I’m all out of prac—,present,ghouse
+689,5,Gatsby,Ewing,"['Nick', 'Daisy', 'Ewing']","We’ll go downstairs,",present,ghouse
+690,5,Ewing,Gatsby,"['Nick', 'Daisy', 'Gatsby']","I’m all out of practice, you see. I told you I couldn’t play. I’m all out of prac—",present,ghouse
+691,5,Gatsby,Ewing,"['Nick', 'Daisy', 'Ewing']","Don’t talk so much, old sport,",present,ghouse
+692,5,Gatsby,Ewing,"['Nick', 'Daisy', 'Ewing']",Play!,present,ghouse
+693,6,Gatsby,reporter,['reporter'],Anything to say about what?,present,ghouse
+694,6,reporter,Gatsby,['Gatsby'],Why—any statement to give out.,present,ghouse
+695,6,Gatsby,Tom,"['Tom', 'Sloane', 'awoman', 'Nick']","I’m delighted to see you,",present,ghouse
+696,6,Gatsby,Tom,"['Tom', 'Sloane', 'awoman', 'Nick']",I’m delighted that you dropped in.,present,ghouse
+697,6,Gatsby,Tom,"['Tom', 'Sloane', 'awoman', 'Nick']",Sit right down. Have a cigarette or a cigar.,present,ghouse
+698,6,Gatsby,Tom,"['Tom', 'Sloane', 'awoman', 'Nick']",I’ll have something to drink for you in just a minute.,present,ghouse
+699,6,Gatsby,Tom,"['Tom', 'Sloane', 'awoman', 'Nick']",Did you have a nice ride?,present,ghouse
+700,6,Tom,Gatsby,"['Gatsby', 'Sloane', 'awoman', 'Nick']",Very good roads around here.,present,ghouse
+701,6,Gatsby,Tom,"['Tom', 'Sloane', 'awoman', 'Nick']",I suppose the automobiles—,present,ghouse
+702,6,Tom,Gatsby,"['Gatsby', 'Sloane', 'awoman', 'Nick']",Yeah.,present,ghouse
+703,6,Gatsby,Tom,"['Tom', 'Sloane', 'awoman', 'Nick']","I believe we’ve met somewhere before, Mr. Buchanan.",present,ghouse
+704,6,Tom,Gatsby,"['Gatsby', 'Sloane', 'awoman', 'Nick']","Oh, yes,",present,ghouse
+705,6,Tom,Gatsby,"['Gatsby', 'Sloane', 'awoman', 'Nick']",So we did. I remember very well.,present,ghouse
+706,6,Gatsby,Tom,"['Tom', 'Sloane', 'awoman', 'Nick']",About two weeks ago.,present,ghouse
+707,6,Tom,Gatsby,"['Gatsby', 'Sloane', 'awoman', 'Nick']",That’s right. You were with Nick here.,present,ghouse
+708,6,Tom,Gatsby,"['Gatsby', 'Sloane', 'awoman', 'Nick']","I know your wife,",present,ghouse
+709,6,Gatsby,Tom,"['Tom', 'Sloane', 'awoman', 'Nick']",That so?,present,ghouse
+710,6,Tom,Nick,"['Gatsby', 'Sloane', 'awoman', 'Nick']","You live near here, Nick?",present,ghouse
+711,6,Nick,Tom,"['Gatsby', 'Sloane', 'awoman', 'Tom']",Next door.,present,ghouse
+712,6,Tom,Nick,"['Gatsby', 'Sloane', 'awoman', 'Nick']",That so?,present,ghouse
+713,6,awoman,Gatsby,"['Gatsby', 'Sloane', 'Tom', 'Nick']","We’ll all come over to your next party, Mr. Gatsby,",present,ghouse
+714,6,awoman,Gatsby,"['Gatsby', 'Sloane', 'Tom', 'Nick']",What do you say?,present,ghouse
+715,6,Gatsby,woman1,"['Tom', 'Sloane', 'awoman', 'Nick']",Certainly; I’d be delighted to have you.,present,ghouse
+716,6,Sloane,Gatsby,"['Tom', 'Gatsby', 'awoman', 'Nick']","Be ver’ nice,",present,ghouse
+717,6,Sloane,Gatsby,"['Tom', 'Gatsby', 'awoman', 'Nick']",Well—think ought to be starting home.,present,ghouse
+718,6,Gatsby,Sloane,"['Tom', 'Sloane', 'awoman', 'Nick']","Please don’t hurry,",present,ghouse
+719,6,Gatsby,Sloane,"['Tom', 'Sloane', 'awoman', 'Nick']",Why don’t you—why don’t you stay for supper? I wouldn’t be surprised if some other people dropped in from New York.,present,ghouse
+720,6,awoman,Gatsby,"['Tom', 'Sloane', 'Gatsby', 'Nick']","You come to supper with me,",present,ghouse
+721,6,awoman,Gatsby,"['Tom', 'Sloane', 'Gatsby', 'Nick']",Both of you.,present,ghouse
+722,6,Sloane,woman1,"['Tom', 'Gatsby', 'awoman', 'Nick']","Come along,",present,ghouse
+723,6,awoman,Gatsby,"['Tom', 'Sloane', 'Gatsby', 'Nick']","I mean it,",present,ghouse
+724,6,awoman,Gatsby,"['Tom', 'Sloane', 'Gatsby', 'Nick']",I’d love to have you. Lots of room.,present,ghouse
+725,6,Nick,woman1,"['Gatsby', 'Sloane', 'awoman', 'Tom']","I’m afraid I won’t be able to,",present,ghouse
+726,6,awoman,Gatsby,"['Tom', 'Sloane', 'Gatsby', 'Nick']","Well, you come,",present,ghouse
+727,6,awoman,Gatsby,"['Tom', 'Sloane', 'Gatsby', 'Nick']","We won’t be late if we start now,",present,ghouse
+728,6,Gatsby,woman1,"['Tom', 'Sloane', 'awoman', 'Nick']","I haven’t got a horse,",present,ghouse
+729,6,Gatsby,woman1,"['Tom', 'Sloane', 'awoman', 'Nick']","I used to ride in the army, but I’ve never bought a horse. I’ll have to follow you in my car. Excuse me for just a minute.",present,ghouse
+730,6,Tom,Nick,['Nick'],"My God, I believe the man’s coming,",present,ghouse
+731,6,Tom,Nick,['Nick'],Doesn’t he know she doesn’t want him?,present,ghouse
+732,6,Nick,Tom,['Tom'],She says she does want him.,present,ghouse
+733,6,Tom,Nick,['Nick'],She has a big dinner party and he won’t know a soul there.,present,ghouse
+734,6,Tom,Nick,['Nick'],"I wonder where in the devil he met Daisy. By God, I may be old-fashioned in my ideas, but women run around too much these days to suit me. They meet all kinds of crazy fish.",present,ghouse
+735,6,Sloane,Tom,"['Tom', 'awoman', 'Nick']","Come on,",present,ghouse
+736,6,Sloane,Tom,"['Tom', 'awoman', 'Nick']",we’re late. We’ve got to go.,present,ghouse
+737,6,Sloane,Tom,"['Tom', 'awoman', 'Nick']","Tell him we couldn’t wait, will you?",present,ghouse
+738,6,Daisy,Nick,"['Nick', 'Tom', 'Gatsby']","These things excite me so,",present,ghouse
+739,6,Daisy,Nick,"['Nick', 'Tom', 'Gatsby']","If you want to kiss me any time during the evening, Nick, just let me know and I’ll be glad to arrange it for you. Just mention my name. Or present a green card. I’m giving out green—",present,ghouse
+740,6,Gatsby,Daisy,"['Nick', 'Tom', 'Daisy']","Look around,",present,ghouse
+741,6,Daisy,Gatsby,"['Nick', 'Tom', 'Gatsby']",I’m looking around. I’m having a marvellous—,present,ghouse
+742,6,Gatsby,Daisy,"['Nick', 'Tom', 'Daisy']",You must see the faces of many people you’ve heard about.,present,ghouse
+743,6,Tom,Gatsby,"['Nick', 'Gatsby', 'Daisy']","We don’t go around very much,",present,ghouse
+744,6,Tom,Gatsby,"['Nick', 'Gatsby', 'Daisy']","in fact, I was just thinking I don’t know a soul here.",present,ghouse
+745,6,Gatsby,Tom,"['Nick', 'Tom', 'Daisy']",Perhaps you know that lady.,present,ghouse
+746,6,Daisy,Gatsby,"['Nick', 'Tom', 'Gatsby']","She’s lovely,",present,ghouse
+747,6,Gatsby,Daisy,"['Nick', 'Tom', 'Daisy']",The man bending over her is her director.,present,ghouse
+748,6,Gatsby,people,"['people', 'Nick', 'Tom', 'Daisy']",Mrs. Buchanan… and Mr. Buchanan—,present,ghouse
+749,6,Gatsby,people,"['people', 'Nick', 'Tom', 'Daisy']",the polo player.,present,ghouse
+750,6,Tom,people,"['people', 'Nick', 'Gatsby', 'Daisy']","Oh no,",present,ghouse
+751,6,Tom,people,"['people', 'Nick', 'Gatsby', 'Daisy']",not me.,present,ghouse
+752,6,Daisy,Gatsby,"['Nick', 'Tom', 'Gatsby']","I’ve never met so many celebrities,",present,ghouse
+753,6,Daisy,Gatsby,"['Nick', 'Tom', 'Gatsby']",I liked that man—what was his name?—with the sort of blue nose.,present,ghouse
+754,6,Daisy,Gatsby,"['Nick', 'Tom', 'Gatsby']","Well, I liked him anyhow.",present,ghouse
+755,6,Tom,Daisy,"['Nick', 'Gatsby', 'Daisy']","I’d a little rather not be the polo player,",present,ghouse
+756,6,Tom,Daisy,"['Nick', 'Gatsby', 'Daisy']",I’d rather look at all these famous people in—in oblivion.,present,ghouse
+757,6,Daisy,Nick,['Nick'],"In case there’s a fire or a flood,",present,ghouse
+758,6,Daisy,Nick,['Nick'],or any act of God.,present,ghouse
+759,6,Tom,Daisy,"['Nick', 'Gatsby', 'Daisy']",Do you mind if I eat with some people over here?,present,ghouse
+760,6,Tom,Daisy,"['Nick', 'Gatsby', 'Daisy']",A fellow’s getting off some funny stuff.,present,ghouse
+761,6,Daisy,Tom,"['Nick', 'Tom', 'Gatsby']","Go ahead,",present,ghouse
+762,6,Daisy,Tom,"['Nick', 'Tom', 'Gatsby']",and if you want to take down any addresses here’s my little gold pencil.,present,ghouse
+763,6,Nick,Baedeker,"['Baedeker', 'woman2', 'friend', 'Civet']","How do you feel, Miss Baedeker?",present,ghouse
+764,6,Baedeker,Nick,"['Nick', 'woman2', 'friend', 'Civet']",Wha’?,present,ghouse
+765,6,woman2,Nick,"['Nick', 'Baedeker', 'friend', 'Civet']","Oh, she’s all right now. When she’s had five or six cocktails she always starts screaming like that. I tell her she ought to leave it alone.",present,ghouse
+766,6,Baedeker,woman2,"['Nick', 'woman2', 'friend', 'Civet']","I do leave it alone,",present,ghouse
+767,6,woman2,Baedeker,"['Nick', 'Baedeker', 'friend', 'Civet']","We heard you yelling, so I said to Doc Civet here: ‘There’s somebody that needs your help, Doc.’",present,ghouse
+768,6,friend,Civet,"['Nick', 'Baedeker', 'woman2', 'Civet']","She’s much obliged, I’m sure,",present,ghouse
+769,6,friend,Civet,"['Nick', 'Baedeker', 'woman3', 'Civet']",but you got her dress all wet when you stuck her head in the pool.,present,ghouse
+770,6,Baedeker,Civet,"['Nick', 'woman2', 'friend', 'Civet']","Anything I hate is to get my head stuck in a pool,",present,ghouse
+771,6,Baedeker,Civet,"['Nick', 'woman2', 'friend', 'Civet']",They almost drowned me once over in New Jersey.,present,ghouse
+772,6,Civet,Baedeker,"['Nick', 'woman2', 'friend', 'Baedeker']","Then you ought to leave it alone,",present,ghouse
+773,6,Baedeker,Civet,"['Nick', 'woman2', 'friend', 'Civet']",Speak for yourself!,present,ghouse
+774,6,Baedeker,Civet,"['Nick', 'woman2', 'friend', 'Civet']",Your hand shakes. I wouldn’t let you operate on me!,present,ghouse
+775,6,Daisy,Nick,['Nick'],"I like her,",present,ghouse
+776,6,Daisy,Nick,['Nick'],I think she’s lovely.,present,ghouse
+777,6,Tom,Nick,"['Nick', 'Daisy']",Who is this Gatsby anyhow?,present,ghouse
+778,6,Tom,Nick,"['Nick', 'Daisy']",Some big bootlegger?,present,ghouse
+779,6,Nick,Tom,"['Tom', 'Daisy']",Where’d you hear that?,present,ghouse
+780,6,Tom,Nick,"['Nick', 'Daisy']","I didn’t hear it. I imagined it. A lot of these newly rich people are just big bootleggers, you know.",present,ghouse
+781,6,Nick,Tom,"['Tom', 'Daisy']","Not Gatsby,",present,ghouse
+782,6,Tom,Nick,"['Nick', 'Daisy']","Well, he certainly must have strained himself to get this menagerie together.",present,ghouse
+783,6,Daisy,Tom,"['Nick', 'Tom']","At least they are more interesting than the people we know,",present,ghouse
+784,6,Tom,Daisy,"['Nick', 'Daisy']",You didn’t look so interested.,present,ghouse
+785,6,Daisy,Tom,"['Nick', 'Tom']","Well, I was.",present,ghouse
+786,6,Tom,Daisy,"['Nick', 'Daisy']",Did you notice Daisy’s face when that girl asked her to put her under a cold shower?,present,ghouse
+787,6,Daisy,Tom,"['Nick', 'Tom']","Lots of people come who haven’t been invited,",present,ghouse
+788,6,Daisy,Tom,"['Nick', 'Tom']",That girl hadn’t been invited. They simply force their way in and he’s too polite to object.,present,ghouse
+789,6,Tom,Daisy,"['Nick', 'Daisy']","I’d like to know who he is and what he does,",present,ghouse
+790,6,Tom,Daisy,"['Nick', 'Daisy']",And I think I’ll make a point of finding out.,present,ghouse
+791,6,Daisy,Tom,"['Nick', 'Tom']","I can tell you right now,",present,ghouse
+792,6,Daisy,Tom,"['Nick', 'Tom']","He owned some drugstores, a lot of drugstores. He built them up himself.",present,ghouse
+793,6,Daisy,Tom,"['Nick', 'Tom']","Good night, Nick,",present,ghouse
+794,6,Gatsby,Nick,['Nick'],"She didn’t like it,",present,ghouse
+795,6,Nick,Gatsby,['Gatsby'],Of course she did.,present,ghouse
+796,6,Gatsby,Nick,['Nick'],"She didn’t like it,",present,ghouse
+797,6,Gatsby,Nick,['Nick'],She didn’t have a good time.,present,ghouse
+798,6,Gatsby,Nick,['Nick'],"I feel far away from her,",present,ghouse
+799,6,Gatsby,Nick,['Nick'],It’s hard to make her understand.,present,ghouse
+800,6,Nick,Gatsby,['Gatsby'],You mean about the dance?,present,ghouse
+801,6,Gatsby,Nick,['Nick'],The dance?,present,ghouse
+802,6,Gatsby,Nick,['Nick'],"Old sport, the dance is unimportant.",present,ghouse
+803,6,Gatsby,Nick,['Nick'],"And she doesn’t understand,",present,ghouse
+804,6,Gatsby,Nick,['Nick'],She used to be able to understand. We’d sit for hours—,present,ghouse
+805,6,Nick,Gatsby,['Gatsby'],"I wouldn’t ask too much of her,",present,ghouse
+806,6,Nick,Gatsby,['Gatsby'],You can’t repeat the past.,present,ghouse
+807,6,Gatsby,Nick,['Nick'],Can’t repeat the past?,present,ghouse
+808,6,Gatsby,Nick,['Nick'],Why of course you can!,present,ghouse
+809,6,Gatsby,Nick,['Nick'],"I’m going to fix everything just the way it was before,",present,ghouse
+810,6,Gatsby,Nick,['Nick'],She’ll see.,present,ghouse
+811,7,Nick,butler,['butler'],Is Mr. Gatsby sick?,present,ghouse
+812,7,butler,Nick,['Nick'],Nope.,present,ghouse
+813,7,butler,Nick,['Nick'],sir,present,ghouse
+814,7,Nick,butler,['butler'],"I hadn’t seen him around, and I was rather worried. Tell him Mr. Carraway came over.",present,ghouse
+815,7,butler,Nick,['Nick'],Who?,present,ghouse
+816,7,Nick,butler,['butler'],Carraway.,present,ghouse
+817,7,butler,Nick,['Nick'],"Carraway. All right, I’ll tell him.",present,ghouse
+818,7,Nick,Gatsby,['Gatsby'],Going away?,present,nhouse
+819,7,Gatsby,Nick,['Nick'],"No, old sport.",present,ghouse
+820,7,Nick,Gatsby,['Gatsby'],I hear you fired all your servants.,present,nhouse
+821,7,Gatsby,Nick,['Nick'],I wanted somebody who wouldn’t gossip. Daisy comes over quite often—in the afternoons.,present,ghouse
+822,7,Gatsby,Nick,['Nick'],They’re some people Wolfshiem wanted to do something for. They’re all brothers and sisters. They used to run a small hotel.,present,ghouse
+823,7,Nick,Gatsby,['Gatsby'],I see.,present,nhouse
+824,7,WomanNexttoNick,Nick,['Nick'],"Oh, my!",present,road
+825,7,conductor,people,['people'],Hot!,present,road
+826,7,conductor,people,['people'],Some weather!… Hot!… Hot!… Hot!… Is it hot enough for you? Is it hot? Is it… ?,present,road
+827,7,butler,phone,['phone'],The master’s body?,present,phone
+828,7,butler,phone,['phone'],"I'm sorry, madame, but we can't furnish it—it's far too hot to touch this noon!",present,phone
+829,7,butler,phone,['phone'],Yes… Yes… I’ll see.,present,phone
+830,7,butler,Nick,['Nick'],Madame expects you in the salon!,present,thouse
+831,7,Daisy,Nick,['Nick'],"We can’t move,",present,thouse
+832,7,Jordan,Nick,['Nick'],"We can’t move,",present,thouse
+833,7,Nick,Jordan,"['Jordan', 'Daisy']","And Mr. Thomas Buchanan, the athlete?",present,thouse
+834,7,Jordan,Nick,['Nick'],"The rumour is,",present,thouse
+835,7,Jordan,Nick,['Nick'],that that’s Tom’s girl on the telephone.,present,thouse
+836,7,Tom,MrWilson,['phone'],"Very well, then, I won’t sell you the car at all… I’m under no obligations to you at all… and as for your bothering me about it at lunch time, I won’t stand that at all!",present,phone
+837,7,Daisy,Nick,"['Nick', 'Jordan']","Holding down the receiver,",present,thouse
+838,7,Nick,Daisy,"['Jordan', 'Daisy']","No, he’s not,",present,thouse
+839,7,Nick,Daisy,"['Jordan', 'Daisy']",It’s a bona-fide deal. I happen to know about it.,present,thouse
+840,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",Mr. Gatsby!,present,thouse
+841,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","I’m glad to see you, sir… Nick…",present,thouse
+842,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']","Make us a cold drink,",present,thouse
+843,7,Daisy,Nick,"['Nick', 'Jordan', 'Gatsby']","You know I love you,",present,thouse
+844,7,Jordan,Daisy,"['Nick', 'Daisy', 'Gatsby']","You forget there’s a lady present,",present,thouse
+845,7,Daisy,Jordan,"['Nick', 'Jordan', 'Gatsby']",You kiss Nick too.,present,thouse
+846,7,Jordan,Daisy,"['Nick', 'Daisy', 'Gatsby']","What a low, vulgar girl!",present,thouse
+847,7,Daisy,Jordan,"['Nick', 'Jordan', 'Gatsby']",I don’t care!,present,thouse
+848,7,Daisy,Pammy,"['Nick', 'Jordan', 'Gatsby', 'Pammy']","Bles-sed pre-cious,",present,thouse
+849,7,Daisy,Pammy,"['Nick', 'Jordan', 'Gatsby', 'Pammy']",Come to your own mother that loves you.,present,thouse
+850,7,Daisy,Pammy,"['Nick', 'Jordan', 'Gatsby', 'Pammy']","The bles-sed pre-cious! Did mother get powder on your old yellowy hair? Stand up now, and say—How-de-do.",present,thouse
+851,7,Pammy,Daisy,"['Nick', 'Jordan', 'Gatsby', 'Daisy']","I got dressed before luncheon,",present,thouse
+852,7,Daisy,Pammy,"['Nick', 'Jordan', 'Gatsby', 'Pammy']",That’s because your mother wanted to show you off.,present,thouse
+853,7,Daisy,Pammy,"['Nick', 'Jordan', 'Gatsby', 'Pammy']","You dream, you. You absolute little dream.",present,thouse
+854,7,Pammy,Daisy,"['Nick', 'Jordan', 'Gatsby', 'Daisy']","Yes,",present,thouse
+855,7,Pammy,Daisy,"['Nick', 'Jordan', 'Gatsby', 'Daisy']",Aunt Jordan’s got on a white dress too.,present,thouse
+856,7,Daisy,Pammy,"['Nick', 'Jordan', 'Gatsby', 'Pammy']",How do you like mother’s friends?,present,thouse
+857,7,Daisy,Pammy,"['Nick', 'Jordan', 'Gatsby', 'Pammy']",Do you think they’re pretty?,present,thouse
+858,7,Pammy,Daisy,"['Nick', 'Jordan', 'Gatsby', 'Daisy']",Where’s Daddy?,present,thouse
+859,7,Daisy,Pammy,"['Nick', 'Jordan', 'Gatsby', 'Pammy']","She doesn’t look like her father,",present,thouse
+860,7,Daisy,Pammy,"['Nick', 'Jordan', 'Gatsby', 'Pammy']",She looks like me. She’s got my hair and shape of the face.,present,thouse
+861,7,nurse,Pammy,"['Nick', 'Jordan', 'Gatsby', 'Pammy', 'Daisy]","Come, Pammy.",present,thouse
+862,7,Daisy,Pammy,"['Nick', 'Jordan', 'Gatsby', 'Pammy']","Goodbye, sweetheart!",present,thouse
+863,7,Gatsby,Tom,"['Tom', 'Daisy', 'Nick', 'Jordan']","They certainly look cool,",present,thouse
+864,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","I read somewhere that the sun’s getting hotter every year,",present,thouse
+865,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",It seems that pretty soon the earth’s going to fall into the sun—or wait a minute—it’s just the opposite—the sun’s getting colder every year.,present,thouse
+866,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","Come outside,",present,thouse
+867,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",I’d like you to have a look at the place.,present,thouse
+868,7,Gatsby,Tom,"['Tom', 'Daisy', 'Nick', 'Jordan']",I’m right across from you.,present,thouse
+869,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",So you are.,present,thouse
+870,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","There’s sport for you,",present,thouse
+871,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",I’d like to be out there with him for about an hour.,present,thouse
+872,7,Daisy,Jordan,"['Nick', 'Jordan', 'Gatsby', 'Tom']",What’ll we do with ourselves this afternoon?,present,thouse
+873,7,Daisy,Jordan,"['Nick', 'Jordan', 'Gatsby', 'Tom']","and the day after that, and the next thirty years?",present,thouse
+874,7,Jordan,Daisy,"['Nick', 'Daisy', 'Gatsby', 'Tom']","Don’t be morbid,",present,thouse
+875,7,Jordan,Daisy,"['Nick', 'Daisy', 'Gatsby', 'Tom']",Life starts all over again when it gets crisp in the fall.,present,thouse
+876,7,Daisy,Jordan,"['Nick', 'Jordan', 'Gatsby', 'Tom']","But it’s so hot,",present,thouse
+877,7,Daisy,Jordan,"['Nick', 'Jordan', 'Gatsby', 'Tom']",and everything’s so confused. Let’s all go to town!,present,thouse
+878,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","I’ve heard of making a garage out of a stable,",present,thouse
+879,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",but I’m the first man who ever made a stable out of a garage.,present,thouse
+880,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']",Who wants to go to town?,present,thouse
+881,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']","Ah,",present,thouse
+882,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']",you look so cool.,present,thouse
+883,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']","You always look so cool,",present,thouse
+884,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']","You resemble the advertisement of the man,",present,thouse
+885,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']",You know the advertisement of the man—,present,thouse
+886,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","All right,",present,thouse
+887,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",I’m perfectly willing to go to town. Come on—we’re all going to town.,present,thouse
+888,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",Come on!,present,thouse
+889,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","What’s the matter, anyhow? If we’re going to town, let’s start.",present,thouse
+890,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']",Are we just going to go?,present,thouse
+891,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']",Like this? Aren’t we going to let anyone smoke a cigarette first?,present,thouse
+892,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",Everybody smoked all through lunch.,present,thouse
+893,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']","Oh, let’s have fun,",present,thouse
+894,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']",It’s too hot to fuss.,present,thouse
+895,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']","Have it your own way,",present,thouse
+896,7,Daisy,Jordan,"['Nick', 'Jordan', 'Gatsby', 'Tom']","Come on, Jordan.",present,thouse
+897,7,Gatsby,Tom,"['Nick', 'Tom']",Have you got your stables here?,present,thouse
+898,7,Tom,Gatsby,"['Nick', 'Gatsby']",About a quarter of a mile down the road.,present,thouse
+899,7,Gatsby,Tom,"['Nick', 'Tom']",Oh.,present,thouse
+900,7,Tom,Gatsby,"['Nick', 'Gatsby']","I don’t see the idea of going to town,",present,thouse
+901,7,Tom,Gatsby,"['Nick', 'Gatsby']",Women get these notions in their heads—,present,thouse
+902,7,Daisy,Tom,"['Nick', 'Gatsby', 'Tom']",Shall we take anything to drink?,present,thouse
+903,7,Tom,Daisy,"['Nick', 'Gatsby', 'Daisy']","I’ll get some whisky,",present,thouse
+904,7,Gatsby,Nick,['Nick'],"I can’t say anything in his house, old sport.",present,thouse
+905,7,Nick,Gatsby,['Gatsby'],"She’s got an indiscreet voice,",present,thouse
+906,7,Nick,Gatsby,['Gatsby'],It’s full of—,present,thouse
+907,7,Gatsby,Nick,['Nick'],"Her voice is full of money,",present,thouse
+908,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']",Shall we all go in my car?,present,thouse
+909,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']",I ought to have left it in the shade.,present,thouse
+910,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",Is it standard shift?,present,thouse
+911,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']",Yes.,present,thouse
+912,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","Well, you take my coupé and let me drive your car to town.",present,thouse
+913,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","I don’t think there’s much gas,",present,thouse
+914,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","Plenty of gas,",present,thouse
+915,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",And if it runs out I can stop at a drugstore. You can buy anything at a drugstore nowadays.,present,thouse
+916,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","Come on, Daisy",present,thouse
+917,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",I’ll take you in this circus wagon.,present,thouse
+918,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']",You take Nick and Jordan. We’ll follow you in the coupé.,present,thouse
+919,7,Tom,Nick,"['Nick', 'Jordan']",Did you see that?,present,road
+920,7,Nick,Tom,"['Tom', 'Jordan']",See what?,present,road
+921,7,Tom,Nick,"['Nick', 'Jordan']","You think I’m pretty dumb, don’t you?",present,road
+922,7,Tom,Nick,"['Nick', 'Jordan']","Perhaps I am, but I have a—almost a second sight, sometimes, that tells me what to do. Maybe you don’t believe that, but science—",present,road
+923,7,Tom,Nick,"['Nick', 'Jordan']","I’ve made a small investigation of this fellow,",present,road
+924,7,Tom,Nick,"['Nick', 'Jordan']",I could have gone deeper if I’d known—,present,road
+925,7,Jordan,Tom,"['Nick', 'Tom']",Do you mean you’ve been to a medium?,present,road
+926,7,Tom,Jordan,"['Nick', 'Jordan']",What?,present,road
+927,7,Tom,Jordan,"['Nick', 'Jordan']",A medium?,present,road
+928,7,Jordan,Tom,"['Nick', 'Tom']",About Gatsby.,present,road
+929,7,Tom,Jordan,"['Nick', 'Jordan']","About Gatsby! No, I haven’t. I said I’d been making a small investigation of his past.",present,road
+930,7,Jordan,Tom,"['Nick', 'Tom']","And you found he was an Oxford man,",present,road
+931,7,Tom,Jordan,"['Nick', 'Jordan']",An Oxford man!,present,road
+932,7,Tom,Jordan,"['Nick', 'Jordan']",Like hell he is! He wears a pink suit.,present,road
+933,7,Jordan,Tom,"['Nick', 'Tom']",Nevertheless he’s an Oxford man.,present,road
+934,7,Tom,Jordan,"['Nick', 'Jordan']","Oxford, New Mexico,",present,road
+935,7,Tom,Jordan,"['Nick', 'Jordan']",or something like that.,present,road
+936,7,Jordan,Tom,"['Nick', 'Tom']","Listen, Tom. If you’re such a snob, why did you invite him to lunch?",present,road
+937,7,Tom,Jordan,"['Nick', 'Jordan']",Daisy invited him; she knew him before we were married—God knows where!,present,road
+938,7,Tom,Jordan,"['Nick', 'Jordan']","We’ve got enough to get us to town,",present,road
+939,7,Jordan,Tom,"['Nick', 'Tom']","But there’s a garage right here,",present,road
+940,7,Jordan,Tom,"['Nick', 'Tom']",I don’t want to get stalled in this baking heat.,present,road
+941,7,Tom,Jordan,"['Nick', 'Jordan']",Let’s have some gas!,present,whouse
+942,7,Tom,Jordan,"['Nick', 'Jordan']",What do you think we stopped for—to admire the view?,present,whouse
+943,7,MrWilson,Tom,"['Nick', 'Jordan', 'Tom']","I’m sick,",present,whouse
+944,7,MrWilson,Tom,"['Nick', 'Jordan', 'Tom']",Been sick all day.,present,whouse
+945,7,Tom,MrWilson,"['Nick', 'Jordan', 'MrWilson']",What’s the matter?,present,whouse
+946,7,MrWilson,Tom,"['Nick', 'Jordan', 'Tom']",I’m all run down.,present,whouse
+947,7,Tom,MrWilson,"['Nick', 'Jordan', 'MrWilson']","Well, shall I help myself?",present,whouse
+948,7,Tom,MrWilson,"['Nick', 'Jordan', 'MrWilson']",You sounded well enough on the phone.,present,whouse
+949,7,MrWilson,Tom,"['Nick', 'Jordan', 'Tom']","I didn’t mean to interrupt your lunch,",present,whouse
+950,7,MrWilson,Tom,"['Nick', 'Jordan', 'Tom']","But I need money pretty bad, and I was wondering what you were going to do with your old car.",present,whouse
+951,7,Tom,MrWilson,"['Nick', 'Jordan', 'MrWilson']",How do you like this one?,present,whouse
+952,7,Tom,MrWilson,"['Nick', 'Jordan', 'MrWilson']",I bought it last week.,present,whouse
+953,7,MrWilson,Tom,"['Nick', 'Jordan', 'Tom']","It’s a nice yellow one,",present,whouse
+954,7,Tom,MrWilson,"['Nick', 'Jordan', 'MrWilson']",Like to buy it?,present,whouse
+955,7,MrWilson,Tom,"['Nick', 'Jordan', 'Tom']","Big chance,",present,whouse
+956,7,MrWilson,Tom,"['Nick', 'Jordan', 'Tom']","No, but I could make some money on the other.",present,whouse
+957,7,Tom,MrWilson,"['Nick', 'Jordan', 'MrWilson']","What do you want money for, all of a sudden?",present,whouse
+958,7,MrWilson,Tom,"['Nick', 'Jordan', 'Tom']",I’ve been here too long. I want to get away. My wife and I want to go West.,present,whouse
+959,7,Tom,MrWilson,"['Nick', 'Jordan', 'MrWilson']","Your wife does,",present,whouse
+960,7,MrWilson,Tom,"['Nick', 'Jordan', 'Tom']",She’s been talking about it for ten years.,present,whouse
+961,7,MrWilson,Tom,"['Nick', 'Jordan', 'Tom']",And now she’s going whether she wants to or not. I’m going to get her away.,present,whouse
+962,7,Tom,MrWilson,"['Nick', 'Jordan', 'MrWilson']",What do I owe you?,present,whouse
+963,7,MrWilson,Tom,"['Nick', 'Jordan', 'Tom']","I just got wised up to something funny the last two days,",present,whouse
+964,7,MrWilson,Tom,"['Nick', 'Jordan', 'Tom']",That’s why I want to get away. That’s why I been bothering you about the car.,present,whouse
+965,7,Tom,MrWilson,"['Nick', 'Jordan', 'MrWilson']",What do I owe you?,present,whouse
+966,7,MrWilson,Tom,"['Nick', 'Jordan', 'Tom']",Dollar twenty.,present,whouse
+967,7,Tom,MrWilson,"['Nick', 'Jordan', 'MrWilson']","I’ll let you have that car,",present,whouse
+968,7,Tom,MrWilson,"['Nick', 'Jordan', 'MrWilson']",I’ll send it over tomorrow afternoon.,present,whouse
+969,7,Jordan,Tom,"['Nick', 'Tom']","Those big movies around Fiftieth Street are cool,",present,city
+970,7,Jordan,Tom,"['Nick', 'Tom']","I love New York on summer afternoons when everyone’s away. There’s something very sensuous about it—overripe, as if all sorts of funny fruits were going to fall into your hands.",present,city
+971,7,Daisy,Tom,"['Nick', 'Tom', 'Jordan', 'Gatsby']",Where are we going?,present,city
+972,7,Tom,Daisy,"['Nick', 'Daisy', 'Jordan', 'Gatsby']",How about the movies?,present,city
+973,7,Daisy,Tom,"['Nick', 'Tom', 'Jordan', 'Gatsby']","It’s so hot,",present,city
+974,7,Daisy,Tom,"['Nick', 'Tom', 'Jordan', 'Gatsby']",You go. We’ll ride around and meet you after.,present,city
+975,7,Daisy,Tom,"['Nick', 'Tom', 'Jordan', 'Gatsby']",We’ll meet you on some corner. I’ll be the man smoking two cigarettes.,present,city
+976,7,Tom,Daisy,"['Nick', 'Daisy', 'Jordan', 'Gatsby']","We can’t argue about it here,",present,city
+977,7,Tom,Daisy,"['Nick', 'Daisy', 'Jordan', 'Gatsby']","You follow me to the south side of Central Park, in front of the Plaza.",present,city
+978,7,Jordan,Daisy,"['Nick', 'Daisy', 'Gatsby', 'Tom']","It’s a swell suite,",present,city
+979,7,Daisy,Jordan,"['Nick', 'Jordan', 'Gatsby', 'Tom']","Open another window,",present,city
+980,7,Jordan,Daisy,"['Nick', 'Daisy', 'Gatsby', 'Tom']",There aren’t any more.,present,city
+981,7,Daisy,Jordan,"['Nick', 'Jordan', 'Gatsby', 'Tom']","Well, we’d better telephone for an axe—",present,city
+982,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","The thing to do is to forget about the heat,",present,city
+983,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",You make it ten times worse by crabbing about it.,present,city
+984,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","Why not let her alone, old sport?",present,city
+985,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']",You’re the one that wanted to come to town.,present,city
+986,7,Jordan,Nick,"['Nick', 'Daisy', 'Gatsby', 'Tom']",Excuse me,present,city
+987,7,Nick,Jordan,"['Jordan', 'Daisy', 'Gatsby', 'Tom']","I’ll pick it up,",present,city
+988,7,Gatsby,Nick,"['Nick', 'Jordan', 'Daisy', 'Tom']",I’ve got it.,present,city
+989,7,Gatsby,Nick,"['Nick', 'Jordan', 'Daisy', 'Tom']",Hum!,present,city
+990,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","That’s a great expression of yours, isn’t it?",present,city
+991,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']",What is?,present,city
+992,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",All this ‘old sport’ business. Where’d you pick that up?,present,city
+993,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']","Now see here, Tom,",present,city
+994,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']",if you’re going to make personal remarks I won’t stay here a minute. Call up and order some ice for the mint julep.,present,city
+995,7,Jordan,Daisy,"['Nick', 'Daisy', 'Gatsby', 'Tom']",Imagine marrying anybody in this heat!,present,city
+996,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']","Still—I was married in the middle of June,",present,city
+997,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']","Louisville in June! Somebody fainted. Who was it fainted, Tom?",present,city
+998,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","Biloxi,",present,city
+999,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']","A man named Biloxi. ‘Blocks’ Biloxi, and he made boxes—that’s a fact—and he was from Biloxi, Tennessee.",present,city
+1000,7,Jordan,Nick,"['Nick', 'Daisy', 'Gatsby', 'Tom']","They carried him into my house,",present,city
+1001,7,Jordan,Nick,"['Nick', 'Daisy', 'Gatsby', 'Tom']","because we lived just two doors from the church. And he stayed three weeks, until Daddy told him he had to get out. The day after he left Daddy died.",present,city
+1002,7,Jordan,Nick,"['Nick', 'Daisy', 'Gatsby', 'Tom']",There wasn’t any connection.,present,city
+1003,7,Nick,Jordan,"['Jordan', 'Daisy', 'Gatsby', 'Tom']","I used to know a Bill Biloxi from Memphis,",present,city
+1004,7,Nick,Jordan,"['Jordan', 'Daisy', 'Gatsby', 'Tom']",That was his cousin. I knew his whole family history before he left. He gave me an aluminium putter that I use today.,present,city
+1005,7,Daisy,Jordan,"['Nick', 'Jordan', 'Gatsby', 'Tom']","We’re getting old,",present,city
+1006,7,Daisy,Jordan,"['Nick', 'Jordan', 'Gatsby', 'Tom']",If we were young we’d rise and dance.,present,city
+1007,7,Jordan,Daisy,"['Nick', 'Daisy', 'Gatsby', 'Tom']","Remember Biloxi,",present,city
+1008,7,Jordan,Tom,"['Nick', 'Daisy', 'Gatsby', 'Tom']","Where’d you know him, Tom?",present,city
+1009,7,Tom,Jordan,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",Biloxi?,present,city
+1010,7,Tom,Jordan,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",I didn’t know him. He was a friend of Daisy’s.,present,city
+1011,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']","He was not,",present,city
+1012,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']",I’d never seen him before. He came down in the private car.,present,city
+1013,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","Well, he said he knew you. He said he was raised in Louisville. Asa Bird brought him around at the last minute and asked if we had room for him.",present,city
+1014,7,Jordan,Tom,"['Nick', 'Daisy', 'Gatsby', 'Tom']",He was probably bumming his way home. He told me he was president of your class at Yale.,present,city
+1015,7,Tom,Jordan,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",Biloxi?,present,city
+1016,7,Tom,Jordan,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","First place, we didn’t have any president—",present,city
+1017,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","By the way, Mr. Gatsby, I understand you’re an Oxford man.",present,city
+1018,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']",Not exactly.,present,city
+1019,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","Oh, yes, I understand you went to Oxford.",present,city
+1020,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']",Yes—I went there.,present,city
+1021,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",You must have gone there about the time Biloxi went to New Haven.,present,city
+1022,7,waiter,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan', 'Tom']",thank you,present,city
+1023,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","I told you I went there,",present,city
+1024,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","I heard you, but I’d like to know when.",present,city
+1025,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","It was in nineteen-nineteen, I only stayed five months. That’s why I can’t really call myself an Oxford man.",present,city
+1026,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","It was an opportunity they gave to some of the officers after the armistice,",present,city
+1027,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']",We could go to any of the universities in England or France.,present,city
+1028,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']","Open the whisky, Tom,",present,city
+1029,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']",and I’ll make you a mint julep. Then you won’t seem so stupid to yourself… Look at the mint!,present,city
+1030,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","Wait a minute,",present,city
+1031,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",I want to ask Mr. Gatsby one more question.,present,city
+1032,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","Go on,",present,city
+1033,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",What kind of a row are you trying to cause in my house anyhow?,present,city
+1034,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']","He isn’t causing a row,",present,city
+1035,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']",You’re causing a row. Please have a little self-control.,present,city
+1036,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",Self-control!,present,city
+1037,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","I suppose the latest thing is to sit back and let Mr. Nobody from Nowhere make love to your wife. Well, if that’s the idea you can count me out… Nowadays people begin by sneering at family life and family institutions, and next they’ll throw everything overboard and have intermarriage between black and white.",present,city
+1038,7,Jordan,Tom,"['Nick', 'Daisy', 'Gatsby', 'Tom']","We’re all white here,",present,city
+1039,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",I know I’m not very popular. I don’t give big parties. I suppose you’ve got to make your house into a pigsty in order to have any friends—in the modern world.,present,city
+1040,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","I’ve got something to tell you, old sport—",present,city
+1041,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']",Please don’t!,present,city
+1042,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']",Please let’s all go home. Why don’t we all go home?,present,city
+1043,7,Nick,Tom,"['Jordan', 'Daisy', 'Gatsby', 'Tom']","That’s a good idea,",present,city
+1044,7,Nick,Tom,"['Jordan', 'Daisy', 'Gatsby', 'Tom']","Come on, Tom. Nobody wants a drink.",present,city
+1045,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",I want to know what Mr. Gatsby has to tell me.,present,city
+1046,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","Your wife doesn’t love you,",present,city
+1047,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']",She’s never loved you. She loves me.,present,city
+1048,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",You must be crazy!,present,city
+1049,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","She never loved you, do you hear?",present,city
+1050,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","She only married you because I was poor and she was tired of waiting for me. It was a terrible mistake, but in her heart she never loved anyone except me!",present,city
+1051,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","Sit down, Daisy,",present,city
+1052,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",What’s been going on? I want to hear all about it.,present,city
+1053,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","I told you what’s been going on,",present,city
+1054,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']",Going on for five years—and you didn’t know.,present,city
+1055,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",You’ve been seeing this fellow for five years?,present,city
+1056,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","Not seeing,",present,city
+1057,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","No, we couldn’t meet. But both of us loved each other all that time, old sport, and you didn’t know. I used to laugh sometimes",present,city
+1058,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']",to think that you didn’t know.,present,city
+1059,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",Oh—that’s all.,present,city
+1060,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",You’re crazy!,present,city
+1061,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","I can’t speak about what happened five years ago, because I didn’t know Daisy then—and I’ll be damned if I see how you got within a mile of her unless you brought the groceries to the back door. But all the rest of that’s a God damned lie. Daisy loved me when she married me and she loves me now.",present,city
+1062,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","No,",present,city
+1063,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","She does, though. The trouble is that sometimes she gets foolish ideas in her head and doesn’t know what she’s doing.",present,city
+1064,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","And what’s more, I love Daisy too. Once in a while I go off on a spree and make a fool of myself, but I always come back, and in my heart I love her all the time.",present,city
+1065,7,Daisy,Nick,"['Nick', 'Jordan', 'Gatsby', 'Tom']","You’re revolting,",present,city
+1066,7,Daisy,Nick,"['Nick', 'Jordan', 'Gatsby', 'Tom']",Do you know why we left Chicago? I’m surprised that they didn’t treat you to the story of that little spree.,present,city
+1067,7,Gatsby,Daisy,"['Nick', 'Jordan', 'Daisy', 'Tom']","Daisy, that’s all over now,",present,city
+1068,7,Gatsby,Daisy,"['Nick', 'Jordan', 'Daisy', 'Tom']",It doesn’t matter any more. Just tell him the truth—that you never loved him—and it’s all wiped out forever.,present,city
+1069,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']",Why—how could I love him—possibly?,present,city
+1070,7,Gatsby,Daisy,"['Nick', 'Jordan', 'Daisy', 'Tom']",You never loved him.,present,city
+1071,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']","I never loved him,",present,city
+1072,7,Gatsby,Daisy,"['Nick', 'Jordan', 'Daisy', 'Tom']",Not at Kapiolani?,present,city
+1073,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']",No.,present,city
+1074,7,Gatsby,Daisy,"['Nick', 'Jordan', 'Daisy', 'Tom']",Not that day I carried you down from the Punch Bowl to keep your shoes dry?,present,city
+1075,7,Gatsby,Daisy,"['Nick', 'Jordan', 'Daisy', 'Tom']",Daisy?,present,city
+1076,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']",Please don’t.,present,city
+1077,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']","There, Jay,",present,city
+1078,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']","Oh, you want too much!",present,city
+1079,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']",I love you now—isn’t that enough? I can’t help what’s past.,present,city
+1080,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']",I did love him once—but I loved you too.,present,city
+1081,7,Gatsby,Daisy,"['Nick', 'Jordan', 'Daisy', 'Tom']",You loved me too?,present,city
+1082,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","Even that’s a lie,",present,city
+1083,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","She didn’t know you were alive. Why—there’s things between Daisy and me that you’ll never know, things that neither of us can ever forget.",present,city
+1084,7,Gatsby,Daisy,"['Nick', 'Jordan', 'Daisy', 'Tom']","I want to speak to Daisy alone,",present,city
+1085,7,Gatsby,Daisy,"['Nick', 'Jordan', 'Daisy', 'Tom']",She’s all excited now—,present,city
+1086,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']","Even alone I can’t say I never loved Tom,",present,city
+1087,7,Daisy,Gatsby,"['Nick', 'Jordan', 'Gatsby', 'Tom']",It wouldn’t be true.,present,city
+1088,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","Of course it wouldn’t,",present,city
+1089,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']","As if it mattered to you,",present,city
+1090,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",Of course it matters. I’m going to take better care of you from now on.,present,city
+1091,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","You don’t understand,",present,city
+1092,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']",You’re not going to take care of her any more.,present,city
+1093,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",I’m not?,present,city
+1094,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",Why’s that?,present,city
+1095,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']",Daisy’s leaving you.,present,city
+1096,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",Nonsense.,present,city
+1097,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']","I am, though,",present,city
+1098,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",She’s not leaving me!,present,city
+1099,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",Certainly not for a common swindler who’d have to steal the ring he put on her finger.,present,city
+1100,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']",I won’t stand this!,present,city
+1101,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']","Oh, please let’s get out.",present,city
+1102,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","Who are you, anyhow?",present,city
+1103,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",You’re one of that bunch that hangs around with Meyer Wolfshiem—that much I happen to know. I’ve made a little investigation into your affairs—and I’ll carry it further tomorrow.,present,city
+1104,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","You can suit yourself about that, old sport,",present,city
+1105,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",I found out what your ‘drugstores’ were.,present,city
+1106,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","He and this Wolfshiem bought up a lot of side-street drugstores here and in Chicago and sold grain alcohol over the counter. That’s one of his little stunts. I picked him for a bootlegger the first time I saw him, and I wasn’t far wrong.",present,city
+1107,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']",What about it?,present,city
+1108,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']",I guess your friend Walter Chase wasn’t too proud to come in on it.,present,city
+1109,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","And you left him in the lurch, didn’t you? You let him go to jail for a month over in New Jersey. God! You ought to hear Walter on the subject of you.",present,city
+1110,7,Gatsby,Tom,"['Nick', 'Jordan', 'Daisy', 'Tom']","He came to us dead broke. He was very glad to pick up some money, old sport.",present,city
+1111,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",Don’t you call me ‘old sport’!,present,city
+1112,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","Walter could have you up on the betting laws too, but Wolfshiem scared him into shutting his mouth.",present,city
+1113,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","That drugstore business was just small change,",present,city
+1114,7,Tom,Gatsby,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",but you’ve got something on now that Walter’s afraid to tell me about.,present,city
+1115,7,Daisy,Tom,"['Nick', 'Jordan', 'Gatsby', 'Tom']","Please, Tom! I can’t stand this any more.",present,city
+1116,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']","You two start on home, Daisy,",present,city
+1117,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",In Mr. Gatsby’s car.,present,city
+1118,7,Tom,Daisy,"['Gatsby', 'Daisy', 'Nick', 'Jordan']",Go on. He won’t annoy you. I think he realizes that his presumptuous little flirtation is over.,present,city
+1119,7,Tom,Nick,"['Jordan', 'Nick']",Want any of this stuff? Jordan?… Nick?,present,city
+1120,7,Tom,Nick,"['Jordan', 'Nick']",Nick?,present,city
+1121,7,Nick,Tom,"['Jordan', 'Tom']",What?,present,city
+1122,7,Tom,Nick,"['Jordan', 'Nick']",Want any?,present,city
+1123,7,Nick,Tom,"['Jordan', 'Tom']",No… I just remembered that today’s my birthday.,present,city
+1124,7,MrWilson,Michaelis,['Michaelis'],"I’ve got my wife locked in up there,",present,whouse
+1125,7,MrWilson,Michaelis,['Michaelis'],"She’s going to stay there till the day after tomorrow, and then we’re going to move away.",present,whouse
+1126,7,MrsWilson,MrWilson,['MrWilson'],Beat me!,present,whouse
+1127,7,MrsWilson,MrWilson,['MrWilson'],"Throw me down and beat me, you dirty little coward!",present,whouse
+1128,7,Tom,Jordan,"['Jordan', 'Nick']",Wreck!,present,whouse
+1129,7,Tom,Jordan,"['Jordan', 'Nick']",That’s good. Wilson’ll have a little business at last.,present,whouse
+1130,7,Tom,Jordan,"['Jordan', 'Nick']","We’ll take a look,",present,whouse
+1131,7,Tom,Jordan,"['Jordan', 'Nick']",just a look.,present,whouse
+1132,7,Tom,Jordan,"['Jordan', 'Nick']","There’s some bad trouble here,",present,whouse
+1133,7,MrWilson,all,['all'],"Oh, my Ga-od! Oh, my Ga-od! Oh, Ga-od! Oh, my Ga-od!",present,whouse
+1134,7,policeman,all,['all'],M-a-v—,present,whouse
+1135,7,policeman,all,['all'],—o—,present,whouse
+1136,7,Michaelis,policeman,['policeman'],"No, r—",present,whouse
+1137,7,Michaelis,policeman,['policeman'],M-a-v-r-o—,present,whouse
+1138,7,Tom,policeman,['policeman'],Listen to me!,present,whouse
+1139,7,policeman,all,['all'],r—,present,whouse
+1140,7,policeman,all,['all'],o—,present,whouse
+1141,7,policeman,all,['all'],g—,present,whouse
+1142,7,policeman,all,['all'],g—,present,whouse
+1143,7,policeman,Tom,['Tom'],"What you want, fella?",present,whouse
+1144,7,Tom,policeman,['policeman'],What happened?—that’s what I want to know.,present,whouse
+1145,7,policeman,Tom,['Tom'],Auto hit her. Ins’antly killed.,present,whouse
+1146,7,Tom,policeman,['policeman'],"Instantly killed,",present,whouse
+1147,7,policeman,Tom,['Tom'],She ran out ina road. Son-of-a-bitch didn’t even stopus car.,present,whouse
+1148,7,Michaelis,Tom,"['Tom', 'policeman']","There was two cars,",present,whouse
+1149,7,Michaelis,Tom,"['Tom', 'policeman']","one comin’, one goin’, see?",present,whouse
+1150,7,policeman,Michaelis,"['Michaelis', 'Tom']",Going where?,present,whouse
+1151,7,Michaelis,policeman,"['Tom', 'policeman']","One goin’ each way. Well, she",present,whouse
+1152,7,Michaelis,policeman,"['Tom', 'policeman']","she ran out there an’ the one comin’ from N’York knock right into her, goin’ thirty or forty miles an hour.",present,whouse
+1153,7,policeman,Michaelis,"['Michaelis', 'Tom']",What’s the name of this place here?,present,whouse
+1154,7,Michaelis,policeman,"['Tom', 'policeman']",Hasn’t got any name.,present,whouse
+1155,7,blackman,policeman,"['Tom', 'policeman', 'Michaelis']","It was a yellow car,",present,whouse
+1156,7,blackman,policeman,"['Tom', 'policeman', 'Michaelis']",big yellow car. New.,present,whouse
+1157,7,policeman,blackman,"['Michaelis', 'Tom', 'blackman']",See the accident?,present,whouse
+1158,7,blackman,policeman,"['Tom', 'policeman', 'Michaelis']","No, but the car passed me down the road, going faster’n forty. Going fifty, sixty.",present,whouse
+1159,7,policeman,blackman,"['Michaelis', 'Tom', 'blackman']",Come here and let’s have your name. Look out now. I want to get his name.,present,whouse
+1160,7,MrWilson,blackman,"['Michaelis', 'Tom', 'blackman', 'policeman']",You don’t have to tell me what kind of car it was! I know what kind of car it was!,present,whouse
+1161,7,Tom,MrWilson,"['Michaelis', 'MrWilson', 'blackman']","You’ve got to pull yourself together,",present,whouse
+1162,7,Tom,MrWilson,"['Michaelis', 'MrWilson', 'blackman']","Listen,",present,whouse
+1163,7,Tom,MrWilson,"['Michaelis', 'MrWilson', 'blackman']","I just got here a minute ago, from New York. I was bringing you that coupé we’ve been talking about. That yellow car I was driving this afternoon wasn’t mine—do you hear? I haven’t seen it all afternoon.",present,whouse
+1164,7,policeman,Tom,"['Michaelis', 'Tom', 'blackman', 'MrWilson']",What’s all that?,present,whouse
+1165,7,Tom,policeman,"['Michaelis', 'MrWilson', 'blackman', 'policman']",I’m a friend of his.,present,whouse
+1166,7,Tom,policeman,"['Michaelis', 'MrWilson', 'blackman', 'policman']",He says he knows the car that did it… It was a yellow car.,present,whouse
+1167,7,policeman,Tom,"['Michaelis', 'Tom', 'blackman', 'MrWilson']",And what colour’s your car?,present,whouse
+1168,7,policeman,Tom,"['Michaelis', 'Tom', 'blackman', 'MrWilson']","It’s a blue car, a coupé.",present,whouse
+1169,7,Nick,policeman,"['Michaelis', 'Tom', 'blackman', 'MrWilson', 'policeman']","We’ve come straight from New York,",present,whouse
+1170,7,policeman,Michaelis,['Michaelis'],"Now, if you’ll let me have that name again correct—",present,whouse
+1171,7,Tom,people,['people'],"If somebody’ll come here and sit with him,",present,whouse
+1172,7,Tom,Nick,['Nick'],Let’s get out.,present,whouse
+1173,7,Tom,Nick,"['Nick', 'Jordan']",The God damned coward!,present,whouse
+1174,7,Tom,Nick,"['Nick', 'Jordan']",He didn’t even stop his car.,present,whouse
+1175,7,Tom,Nick,"['Nick', 'Jordan']","Daisy’s home,",present,thouse
+1176,7,Tom,Nick,"['Nick', 'Jordan']","I ought to have dropped you in West Egg, Nick. There’s nothing we can do tonight.",present,thouse
+1177,7,Tom,Nick,"['Nick', 'Jordan']","I’ll telephone for a taxi to take you home, and while you’re waiting you and Jordan better go in the kitchen and have them get you some supper—if you want any.",present,thouse
+1178,7,Tom,Nick,"['Nick', 'Jordan']",Come in.,present,thouse
+1179,7,Nick,Tom,"['Tom', 'Jordan']","No, thanks. But I’d be glad if you’d order me the taxi. I’ll wait outside.",present,thouse
+1180,7,Jordan,Nick,"['Tom', 'Nick']","Won’t you come in, Nick?",present,thouse
+1181,7,Nick,Tom,"['Tom', 'Jordan']","No, thanks.",present,thouse
+1182,7,Jordan,Nick,"['Tom', 'Nick']","It’s only half-past nine,",present,thouse
+1183,7,Nick,Gatsby,['Gatsby'],What are you doing?,present,thouse
+1184,7,Gatsby,Nick,['Nick'],"Just standing here, old sport.",present,thouse
+1185,7,Gatsby,Nick,['Nick'],Did you see any trouble on the road?,present,thouse
+1186,7,Nick,Gatsby,['Gatsby'],Yes.,present,thouse
+1187,7,Gatsby,Nick,['Nick'],Was she killed?,present,thouse
+1188,7,Nick,Gatsby,['Gatsby'],Yes.,present,thouse
+1189,7,Gatsby,Nick,['Nick'],I thought so; I told Daisy I thought so. It’s better that the shock should all come at once. She stood it pretty well.,present,thouse
+1190,7,Gatsby,Nick,['Nick'],"I got to West Egg by a side road,",present,thouse
+1191,7,Gatsby,Nick,['Nick'],"and left the car in my garage. I don’t think anybody saw us, but of course I can’t be sure.",present,thouse
+1192,7,Gatsby,Nick,['Nick'],Who was the woman?,present,thouse
+1193,7,Nick,Gatsby,['Gatsby'],Her name was Wilson. Her husband owns the garage. How the devil did it happen?,present,thouse
+1194,7,Gatsby,Nick,['Nick'],"Well, I tried to swing the wheel—",present,thouse
+1195,7,Nick,Gatsby,['Gatsby'],Was Daisy driving?,present,thouse
+1196,7,Gatsby,Nick,['Nick'],"Yes,",present,thouse
+1197,7,Gatsby,Nick,['Nick'],"but of course I’ll say I was. You see, when we left New York she was very nervous and she thought it would steady her to drive—and this woman rushed out at us just as we were passing a car coming the other way. It all happened in a minute, but it seemed to me that she wanted to speak to us, thought we were somebody she knew. Well, first Daisy turned away from the woman toward the other car, and then she lost her nerve and turned back. The second my hand reached the wheel I felt the shock—it must have killed her instantly.",present,thouse
+1198,7,Nick,Gatsby,['Gatsby'],It ripped her open—,present,thouse
+1199,7,Gatsby,Nick,['Nick'],"Don’t tell me, old sport.",present,thouse
+1200,7,Gatsby,Nick,['Nick'],"Anyhow—Daisy stepped on it. I tried to make her stop, but she couldn’t, so I pulled on the emergency brake. Then she fell over into my lap and I drove on.",present,thouse
+1201,7,Gatsby,Nick,['Nick'],"She’ll be all right tomorrow,",present,thouse
+1202,7,Gatsby,Nick,['Nick'],"I’m just going to wait here and see if he tries to bother her about that unpleasantness this afternoon. She’s locked herself into her room, and if he tries any brutality she’s going to turn the light out and on again.",present,thouse
+1203,7,Nick,Gatsby,['Gatsby'],"He won’t touch her,",present,thouse
+1204,7,Nick,Gatsby,['Gatsby'],He’s not thinking about her.,present,thouse
+1205,7,Gatsby,Nick,['Nick'],"I don’t trust him, old sport.",present,thouse
+1206,7,Nick,Gatsby,['Gatsby'],How long are you going to wait?,present,thouse
+1207,7,Gatsby,Nick,['Nick'],"All night, if necessary. Anyhow, till they all go to bed.",present,thouse
+1208,7,Nick,Gatsby,['Gatsby'],"You wait here,",present,thouse
+1209,7,Nick,Gatsby,['Gatsby'],I’ll see if there’s any sign of a commotion.,present,thouse
+1210,7,Gatsby,Nick,['Nick'],Is it all quiet up there?,present,thouse
+1211,7,Nick,Gatsby,['Gatsby'],"Yes, it’s all quiet.",present,thouse
+1212,7,Nick,Gatsby,['Gatsby'],You’d better come home and get some sleep.,present,thouse
+1213,7,Gatsby,Nick,['Nick'],"I want to wait here till Daisy goes to bed. Good night, old sport.",present,thouse
+1214,8,Gatsby,Nick,['Nick'],"Nothing happened,",present,ghouse
+1215,8,Gatsby,Nick,['Nick'],"I waited, and about four o’clock she came to the window and stood there for a minute and then turned out the light.",present,ghouse
+1216,8,Nick,Gatsby,['Gatsby'],"You ought to go away,",present,ghouse
+1217,8,Nick,Gatsby,['Gatsby'],It’s pretty certain they’ll trace your car.,present,ghouse
+1218,8,Gatsby,Nick,['Nick'],"Go away now, old sport?",present,ghouse
+1219,8,Nick,Gatsby,['Gatsby'],"Go to Atlantic City for a week, or up to Montreal.",present,ghouse
+1220,8,Gatsby,Nick,['Nick'],"I can’t describe to you how surprised I was to find out I loved her, old sport. I even hoped for a while that she’d throw me over, but she didn’t, because she was in love with me too. She thought I knew a lot because I knew different things from her… Well, there I was, way off my ambitions, getting deeper in love every minute, and all of a sudden I didn’t care. What was the use of doing great things if I could have a better time telling her what I was going to do?",present,ghouse
+1221,8,Gatsby,Nick,['Nick'],I don’t think she ever loved him.,present,ghouse
+1222,8,Gatsby,Nick,['Nick'],"You must remember, old sport, she was very excited this afternoon. He told her those things in a way that frightened her—that made it look as if I was some kind of cheap sharper. And the result was she hardly knew what she was saying.",present,ghouse
+1223,8,Gatsby,Nick,['Nick'],"Of course she might have loved him just for a minute, when they were first married—and loved me more even then, do you see?",present,ghouse
+1224,8,Gatsby,Nick,['Nick'],"In any case,",present,ghouse
+1225,8,Gatsby,Nick,['Nick'],it was just personal.,present,ghouse
+1226,8,gardener,Gatsby,"['Gatsby', 'Nick']","I’m going to drain the pool today, Mr. Gatsby. Leaves’ll start falling pretty soon, and then there’s always trouble with the pipes.",present,ghouse
+1227,8,Gatsby,gardener,"['gardner', 'Nick']","Don’t do it today,",present,ghouse
+1228,8,Gatsby,Nick,"['gardner', 'Nick']","You know, old sport, I’ve never used that pool all summer?",present,ghouse
+1229,8,Nick,Gatsby,['Gatsby'],Twelve minutes to my train.,present,ghouse
+1230,8,Nick,Gatsby,['Gatsby'],"I’ll call you up,",present,ghouse
+1231,8,Gatsby,Nick,['Nick'],"Do, old sport.",present,ghouse
+1232,8,Nick,Gatsby,['Gatsby'],I’ll call you about noon.,present,ghouse
+1233,8,Gatsby,Nick,['Nick'],I suppose Daisy’ll call too.,present,ghouse
+1234,8,Nick,Gatsby,['Gatsby'],I suppose so.,present,ghouse
+1235,8,Gatsby,Nick,['Nick'],"Well, goodbye.",present,ghouse
+1236,8,Nick,Gatsby,['Gatsby'],"They’re a rotten crowd,",present,ghouse
+1237,8,Nick,Gatsby,['Gatsby'],You’re worth the whole damn bunch put together.,present,ghouse
+1238,8,Nick,Gatsby,['Gatsby'],"Goodbye,",present,ghouse
+1239,8,Nick,Gatsby,['Gatsby'],"I enjoyed breakfast, Gatsby.",present,ghouse
+1240,8,Jordan,Nick,['Nick'],"I’ve left Daisy’s house,",present,phone
+1241,8,Jordan,Nick,['Nick'],"I’m at Hempstead, and I’m going down to Southampton this afternoon.",present,phone
+1242,8,Jordan,Nick,['Nick'],You weren’t so nice to me last night.,present,phone
+1243,8,Nick,Jordan,['Jordan'],How could it have mattered then?,present,phone
+1244,8,Jordan,Nick,['Nick'],However—I want to see you.,present,phone
+1245,8,Nick,Jordan,['Jordan'],"I want to see you, too.",present,phone
+1246,8,Jordan,Nick,['Nick'],"Suppose I don’t go to Southampton, and come into town this afternoon?",present,phone
+1247,8,Nick,Jordan,['Jordan'],No—I don’t think this afternoon.,present,phone
+1248,8,Jordan,Nick,['Nick'],Very well.,present,phone
+1249,8,Nick,Jordan,['Jordan'],It’s impossible this afternoon. Various—,present,phone
+1250,8,MrWilson,Michaelis,['Michaelis'],"Oh, my God!",past,whouse
+1251,8,Michaelis,MrWilson,['MrWilson'],"How long have you been married, George? Come on there, try and sit still a minute, and answer my question. How long have you been married?",past,whouse
+1252,8,MrWilson,Michaelis,['Michaelis'],Twelve years.,present,whouse
+1253,8,Michaelis,MrWilson,['MrWilson'],"Ever had any children? Come on, George, sit still—I asked you a question. Did you ever have any children?",present,whouse
+1254,8,Michaelis,MrWilson,['MrWilson'],"Have you got a church you go to sometimes, George? Maybe even if you haven’t been there for a long time? Maybe I could call up the church and get a priest to come over and he could talk to you, see?",present,whouse
+1255,8,MrWilson,Michaelis,['Michaelis'],Don’t belong to any.,present,whouse
+1256,8,Michaelis,MrWilson,['MrWilson'],"You ought to have a church, George, for times like this. You must have gone to church once. Didn’t you get married in a church? Listen, George, listen to me. Didn’t you get married in a church?",present,whouse
+1257,8,MrWilson,Michaelis,['Michaelis'],That was a long time ago.,present,whouse
+1258,8,MrWilson,Michaelis,['Michaelis'],"Look in the drawer there,",present,whouse
+1259,8,Michaelis,MrWilson,['MrWilson'],Which drawer?,present,whouse
+1260,8,MrWilson,Michaelis,['Michaelis'],That drawer—that one.,present,whouse
+1261,8,Michaelis,MrWilson,['MrWilson'],This?,present,whouse
+1262,8,MrWilson,Michaelis,['Michaelis'],"I found it yesterday afternoon. She tried to tell me about it, but I knew it was something funny.",present,whouse
+1263,8,Michaelis,MrWilson,['MrWilson'],You mean your wife bought it?,present,whouse
+1264,8,MrWilson,Michaelis,['Michaelis'],She had it wrapped in tissue paper on her bureau.,present,whouse
+1265,8,MrWilson,Michaelis,['Michaelis'],"Oh, my God!",present,whouse
+1266,8,MrWilson,Michaelis,['Michaelis'],"Then he killed her,",present,whouse
+1267,8,Michaelis,MrWilson,['MrWilson'],Who did?,present,whouse
+1268,8,MrWilson,Michaelis,['Michaelis'],I have a way of finding out.,present,whouse
+1269,8,Michaelis,MrWilson,['MrWilson'],"You’re morbid, George,",present,whouse
+1270,8,Michaelis,MrWilson,['MrWilson'],This has been a strain to you and you don’t know what you’re saying. You’d better try and sit quiet till morning.,present,whouse
+1271,8,MrWilson,Michaelis,['Michaelis'],He murdered her.,present,whouse
+1272,8,Michaelis,MrWilson,['MrWilson'],"It was an accident, George.",present,whouse
+1273,8,MrWilson,Michaelis,['Michaelis'],Hm!,present,whouse
+1274,8,MrWilson,Michaelis,['Michaelis'],"I know,",present,whouse
+1275,8,MrWilson,Michaelis,['Michaelis'],"I’m one of these trusting fellas and I don’t think any harm to nobody, but when I get to know a thing I know it. It was the man in that car. She ran out to speak to him and he wouldn’t stop.",present,whouse
+1276,8,Michaelis,MrWilson,['MrWilson'],How could she of been like that?,present,whouse
+1277,8,MrWilson,Michaelis,['Michaelis'],"She’s a deep one,",present,whouse
+1278,8,MrWilson,Michaelis,['Michaelis'],Ah-h-h—,present,whouse
+1279,8,Michaelis,MrWilson,['MrWilson'],"Maybe you got some friend that I could telephone for, George?",present,whouse
+1280,8,MrWilson,Michaelis,['Michaelis'],"I spoke to her,",present,whouse
+1281,8,MrWilson,Michaelis,['Michaelis'],I told her she might fool me but she couldn’t fool God. I took her to the window,present,whouse
+1282,8,MrWilson,Michaelis,['Michaelis'],"and I said ‘God knows what you’ve been doing, everything you’ve been doing. You may fool me, but you can’t fool God!’",present,whouse
+1283,8,MrWilson,Michaelis,['Michaelis'],"God sees everything,",present,whouse
+1284,8,Michaelis,MrWilson,['MrWilson'],"That’s an advertisement,",present,whouse
+1285,9,Nick,Daisy,['Daisy'],Left no address?,present,phone
+1286,9,Daisy,Nick,['Nick'],No.,present,phone
+1287,9,Nick,Daisy,['Daisy'],Say when they’d be back?,present,phone
+1288,9,Daisy,Nick,['Nick'],No.,present,phone
+1289,9,Nick,Daisy,['Daisy'],Any idea where they are? How I could reach them?,present,phone
+1290,9,Daisy,Nick,['Nick'],I don’t know. Can’t say.,present,phone
+1291,9,Nick,information,['information'],Will you ring again?,present,phone
+1292,9,information,Nick,['Nick'],I’ve rung three times.,present,phone
+1293,9,Nick,information,['information'],It’s very important.,present,phone
+1294,9,information,Nick,['Nick'],Sorry. I’m afraid no one’s there.,present,phone
+1295,9,Slagle,Nick,['Nick'],This is Slagle speaking…,present,phone
+1296,9,Nick,Slagle,['Slagle'],Yes?,present,phone
+1297,9,Slagle,Nick,['Nick'],"Hell of a note, isn’t it? Get my wire?",present,phone
+1298,9,Nick,Slagle,['Slagle'],There haven’t been any wires.,present,phone
+1299,9,Slagle,Nick,['Nick'],"Young Parke’s in trouble,",present,phone
+1300,9,Slagle,Nick,['Nick'],"They picked him up when he handed the bonds over the counter. They got a circular from New York giving ’em the numbers just five minutes before. What d’you know about that, hey? You never can tell in these hick towns—",present,phone
+1301,9,Nick,Slagle,['Slagle'],Hello!,present,phone
+1302,9,Nick,Slagle,['Slagle'],Look here—this isn’t Mr. Gatsby. Mr. Gatsby’s dead.,present,phone
+1303,9,Henry,Nick,['Nick'],"I saw it in the Chicago newspaper,",present,ghouse
+1304,9,Henry,Nick,['Nick'],It was all in the Chicago newspaper. I started right away.,present,ghouse
+1305,9,Nick,Henry,['Henry'],I didn’t know how to reach you.,present,ghouse
+1306,9,Henry,Nick,['Nick'],"It was a madman,",present,ghouse
+1307,9,Henry,Nick,['Nick'],He must have been mad.,present,ghouse
+1308,9,Nick,Henry,['Henry'],Wouldn’t you like some coffee?,present,ghouse
+1309,9,Henry,Nick,['Nick'],"I don’t want anything. I’m all right now, Mr.—",present,ghouse
+1310,9,Nick,Henry,['Henry'],Carraway.,present,ghouse
+1311,9,Henry,Nick,['Nick'],"Well, I’m all right now. Where have they got Jimmy?",present,ghouse
+1312,9,Nick,Henry,['Henry'],"I didn’t know what you’d want, Mr. Gatsby—",present,ghouse
+1313,9,Henry,Nick,['Nick'],Gatz is my name.,present,ghouse
+1314,9,Nick,Henry,['Henry'],—Mr. Gatz. I thought you might want to take the body West.,present,ghouse
+1315,9,Henry,Nick,['Nick'],"Jimmy always liked it better down East. He rose up to his position in the East. Were you a friend of my boy’s, Mr.—?",present,ghouse
+1316,9,Nick,Henry,['Henry'],We were close friends.,present,ghouse
+1317,9,Henry,Nick,['Nick'],"He had a big future before him, you know. He was only a young man, but he had a lot of brain power here.",present,ghouse
+1318,9,Henry,Nick,['Nick'],"If he’d of lived, he’d of been a great man. A man like James J. Hill. He’d of helped build up the country.",present,ghouse
+1319,9,Nick,Henry,['Henry'],"That’s true,",present,ghouse
+1320,9,Nick,Klipspringer,['Klipspringer'],"This is Mr. Carraway,",present,phone
+1321,9,Klipspringer,Nick,['Nick'],Oh!,present,phone
+1322,9,Klipspringer,Nick,['Nick'],This is Klipspringer.,present,phone
+1323,9,Nick,Klipspringer,['Klipspringer'],"The funeral’s tomorrow,",present,phone
+1324,9,Nick,Klipspringer,['Klipspringer'],"Three o’clock, here at the house. I wish you’d tell anybody who’d be interested.",present,phone
+1325,9,Klipspringer,Nick,['Nick'],"Oh, I will,",present,phone
+1326,9,Klipspringer,Nick,['Nick'],"Of course I’m not likely to see anybody, but if I do.",present,phone
+1327,9,Nick,Klipspringer,['Klipspringer'],Of course you’ll be there yourself.,present,phone
+1328,9,Klipspringer,Nick,['Nick'],"Well, I’ll certainly try. What I called up about is—",present,phone
+1329,9,Nick,Klipspringer,['Klipspringer'],"Wait a minute,",present,phone
+1330,9,Nick,Klipspringer,['Klipspringer'],How about saying you’ll come?,present,phone
+1331,9,Klipspringer,Nick,['Nick'],"Well, the fact is—the truth of the matter is that I’m staying with some people up here in Greenwich, and they rather expect me to be with them tomorrow. In fact, there’s a sort of picnic or something. Of course I’ll do my best to get away.",present,phone
+1332,9,Nick,Klipspringer,['Klipspringer'],Huh!,present,phone
+1333,9,Klipspringer,Nick,['Nick'],"What I called up about was a pair of shoes I left there. I wonder if it’d be too much trouble to have the butler send them on. You see, they’re tennis shoes, and I’m sort of helpless without them. My address is care of B. F.—",present,phone
+1334,9,Nick,Stella,['Stella'],hello,present,newyork
+1335,9,Stella,Nick,['Nick'],"Nobody’s in,",present,newyork
+1336,9,Stella,Nick,['Nick'],Mr. Wolfshiem’s gone to Chicago.,present,newyork
+1337,9,Nick,Stella,['Stella'],Please say that Mr. Carraway wants to see him.,present,newyork
+1338,9,Stella,Nick,['Nick'],"I can’t get him back from Chicago, can I?",present,newyork
+1339,9,Wolfshiem,Stella,['Stella'],Stella!,present,newyork
+1340,9,Stella,Nick,['Nick'],"Leave your name on the desk,",present,newyork
+1341,9,Stella,Nick,['Nick'],I’ll give it to him when he gets back.,present,newyork
+1342,9,Nick,Stella,['Stella'],But I know he’s there.,present,newyork
+1343,9,Stella,Nick,['Nick'],"You young men think you can force your way in here any time,",present,newyork
+1344,9,Stella,Nick,['Nick'],"We’re getting sickantired of it. When I say he’s in Chicago, he’s in Chicago.",present,newyork
+1345,9,Stella,Nick,['Nick'],Oh-h!,present,newyork
+1346,9,Stella,Nick,['Nick'],Will you just—What was your name?,present,newyork
+1347,9,Wolfshiem,Nick,['Nick'],"My memory goes back to when first I met him,",present,newyork
+1348,9,Wolfshiem,Nick,['Nick'],"A young major just out of the army and covered over with medals he got in the war. He was so hard up he had to keep on wearing his uniform because he couldn’t buy some regular clothes. First time I saw him was when he came into Winebrenner’s poolroom at Forty-third Street and asked for a job. He hadn’t eat anything for a couple of days. ‘Come on have some lunch with me,’ I said. He ate more than four dollars’ worth of food in half an hour.",present,newyork
+1349,9,Nick,Wolfshiem,['Wolfshiem'],Did you start him in business?,present,newyork
+1350,9,Wolfshiem,Nick,['Nick'],Start him! I made him.,present,newyork
+1351,9,Nick,Wolfshiem,['Wolfshiem'],Oh.,present,newyork
+1352,9,Wolfshiem,Nick,['Nick'],"I raised him up out of nothing, right out of the gutter. I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was at Oggsford I knew I could use him good. I got him to join the American Legion and he used to stand high there. Right off he did some work for a client of mine up to Albany. We were so thick like that in everything",present,newyork
+1353,9,Wolfshiem,Nick,['Nick'],always together.,present,newyork
+1354,9,Nick,Wolfshiem,['Wolfshiem'],"Now he’s dead,",present,newyork
+1355,9,Nick,Wolfshiem,['Wolfshiem'],"You were his closest friend, so I know you’ll want to come to his funeral this afternoon.",present,newyork
+1356,9,Wolfshiem,Nick,['Nick'],I’d like to come.,present,newyork
+1357,9,Nick,Wolfshiem,['Wolfshiem'],"Well, come then.",present,newyork
+1358,9,Wolfshiem,Nick,['Nick'],"I can’t do it—I can’t get mixed up in it,",present,newyork
+1359,9,Nick,Wolfshiem,['Wolfshiem'],There’s nothing to get mixed up in. It’s all over now.,present,newyork
+1360,9,Wolfshiem,Nick,['Nick'],"When a man gets killed I never like to get mixed up in it in any way. I keep out. When I was a young man it was different—if a friend of mine died, no matter how, I stuck with them to the end. You may think that’s sentimental, but I mean it—to the bitter end.",present,newyork
+1361,9,Wolfshiem,Nick,['Nick'],Are you a college man?,present,newyork
+1362,9,Wolfshiem,Nick,['Nick'],"Let us learn to show our friendship for a man when he is alive and not after he is dead,",present,newyork
+1363,9,Wolfshiem,Nick,['Nick'],After that my own rule is to let everything alone.,present,newyork
+1364,9,Henry,Nick,['Nick'],Jimmy sent me this picture.,present,ghouse
+1365,9,Henry,Nick,['Nick'],Look there.,present,ghouse
+1366,9,Henry,Nick,['Nick'],Look there!,present,ghouse
+1367,9,Henry,Nick,['Nick'],Jimmy sent it to me. I think it’s a very pretty picture. It shows up well.,present,ghouse
+1368,9,Nick,Henry,['Henry'],Very well. Had you seen him lately?,present,ghouse
+1369,9,Henry,Nick,['Nick'],"He come out to see me two years ago and bought me the house I live in now. Of course we was broke up when he run off from home, but I see now there was a reason for it. He knew he had a big future in front of him. And ever since he made a success he was very generous with me.",present,ghouse
+1370,9,Henry,Nick,['Nick'],"Look here, this is a book he had when he was a boy. It just shows you.",present,ghouse
+1371,9,Henry,Nick,['Nick'],"I came across this book by accident,",present,ghouse
+1372,9,Henry,Nick,['Nick'],"It just shows you, don’t it?",present,ghouse
+1373,9,Henry,Nick,['Nick'],It just shows you.,present,ghouse
+1374,9,Henry,Nick,['Nick'],"Jimmy was bound to get ahead. He always had some resolves like this or something. Do you notice what he’s got about improving his mind? He was always great for that. He told me I et like a hog once, and I beat him for it.",present,ghouse
+1375,9,someone,owlman,['owlman'],"Blessed are the dead that the rain falls on,",present,grave
+1376,9,owlman,none,['all'],"Amen to that,",present,grave
+1377,9,owlman,Nick,['Nick'],"I couldn’t get to the house,",present,grave
+1378,9,Nick,owlman,['owlman'],Neither could anybody else.,present,grave
+1379,9,owlman,Nick,['Nick'],Go on!,present,grave
+1380,9,owlman,Nick,['Nick'],"Why, my God! they used to go there by the hundreds.",present,grave
+1381,9,owlman,Nick,['Nick'],"The poor son-of-a-bitch,",present,grave
+1382,9,Jordan,Nick,['Nick'],"Nevertheless you did throw me over,",present,city
+1383,9,Jordan,Nick,['Nick'],"You threw me over on the telephone. I don’t give a damn about you now, but it was a new experience for me, and I felt a little dizzy for a while.",present,city
+1384,9,Jordan,Nick,['Nick'],"Oh, and do you remember",present,city
+1385,9,Jordan,Nick,['Nick'],a conversation we had once about driving a car?,present,city
+1386,9,Nick,Jordan,['Jordan'],Why—not exactly.,present,city
+1387,9,Jordan,Nick,['Nick'],"You said a bad driver was only safe until she met another bad driver? Well, I met another bad driver, didn’t I? I mean it was careless of me to make such a wrong guess. I thought you were rather an honest, straightforward person. I thought it was your secret pride.",present,city
+1388,9,Nick,Jordan,['Jordan'],"I’m thirty,",present,city
+1389,9,Nick,Jordan,['Jordan'],I’m five years too old to lie to myself and call it honour.,present,city
+1390,9,Tom,Nick,['Nick'],"What’s the matter, Nick? Do you object to shaking hands with me?",present,road
+1391,9,Nick,Tom,['Tom'],Yes. You know what I think of you.,present,road
+1392,9,Tom,Nick,['Nick'],"You’re crazy, Nick,",present,road
+1393,9,Tom,Nick,['Nick'],Crazy as hell. I don’t know what’s the matter with you.,present,road
+1394,9,Nick,Tom,['Tom'],"Tom,",present,road
+1395,9,Nick,Tom,['Tom'],what did you say to Wilson that afternoon?,present,road
+1396,9,Tom,Nick,['Nick'],"I told him the truth,",present,road
+1397,9,Tom,Nick,['Nick'],"He came to the door while we were getting ready to leave, and when I sent down word that we weren’t in he tried to force his way upstairs. He was crazy enough to kill me if I hadn’t told him who owned the car. His hand was on a revolver in his pocket every minute he was in the house—",present,road
+1398,9,Tom,Nick,['Nick'],"What if I did tell him? That fellow had it coming to him. He threw dust into your eyes just like he did in Daisy’s, but he was a tough one. He ran over Myrtle like you’d run over a dog and never even stopped his car.",present,road
+1399,9,Tom,Nick,['Nick'],"And if you think I didn’t have my share of suffering—look here, when I went to give up that flat and saw that damn box of dog biscuits sitting there on the sideboard, I sat down and cried like a baby. By God it was awful—",present,road
