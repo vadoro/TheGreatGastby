@@ -33,7 +33,7 @@ To begin exploring the materials provided:
 ### Prerequisites
 
 - **Gephi**: For network visualization and interactive exploration.  
-- **Python**: Depending on the provided scripts, you may need Python.
+- **Python**
 
 ## Usage
 
