@@ -49,7 +49,7 @@ This repository is under the CC BY-NC-ND 4.0 license.
 
 If you find this repository useful for your research, teaching, or projects, please cite the paper:
 
-> Kim, Yongsoo. "Network Analysis of the Narrator and Characters in Fitzgerald’s *The Great Gatsby*." *Korean Journal of Digital Humanities*, 1.2, 2024, pp.13-23. [Published Paper Link](https://doi.org/10.23287/KJDH.2024.1.2.2)
+> Kim, Yongsoo. "Network Analysis of the Narrator and Characters in Fitzgerald’s *The Great Gatsby*." *Korean Journal of Digital Humanities*, 1.2, 2024, pp.13-23. https://doi.org/10.23287/KJDH.2024.1.2.2 [Published Paper Link](https://doi.org/10.23287/KJDH.2024.1.2.2)
 
 For any inquiries or further information, please contact vadoropupille@gmail.com.
 
